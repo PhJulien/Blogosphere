@@ -1,0 +1,1679 @@
+From To weight name
+sciencepresse.qc.ca acfas.ca 0.333333333333333 Pascal Lapointe
+sciencepresse.qc.ca amazon.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca arstechnica.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca badscience.net 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca blog.coturnix.org 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca blogcritics.org 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca blogs.discovermagazine.com 0.333333333333333 Pascal Lapointe
+sciencepresse.qc.ca blogs.scientificamerican.com 0.333333333333333 Pascal Lapointe
+sciencepresse.qc.ca cjr.org 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca condenaststore.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca dotearth.blogs.nytimes.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca en.wikipedia.org 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca engagingnewsproject.org 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca freakonometrics.hypotheses.org 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca freethoughtblogs.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca geneticliteracyproject.org 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca grist.org 1.16666666666667 Pascal Lapointe
+sciencepresse.qc.ca jou.sagepub.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca jstor.org 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca kraut.hciresearch.org 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca ksj.mit.edu 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca ledevoir.com 0.333333333333333 Pascal Lapointe
+sciencepresse.qc.ca link.springer.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca medium.com 0.333333333333333 Pascal Lapointe
+sciencepresse.qc.ca monicacatherine.wordpress.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca multim.com 0.333333333333333 Pascal Lapointe
+sciencepresse.qc.ca ncbi.nlm.nih.gov 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca newyorker.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca npr.org 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca onlinelibrary.wiley.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca passeurdesciences.blog.lemonde.fr 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca poynter.org 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca propublica.org 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca psych.cf.ac.uk 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca publiceditor.blogs.nytimes.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca reddit.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca sci2morrow.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca scienceblogs.com 0.333333333333333 Pascal Lapointe
+sciencepresse.qc.ca scienceonline.com 0.333333333333333 Pascal Lapointe
+sciencepresse.qc.ca sciencepresse.qc.ca 5.66666666666667 Pascal Lapointe
+sciencepresse.qc.ca scientificamerican.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca scientopia.org 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca slate.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca tandfonline.com 0.333333333333333 Pascal Lapointe
+sciencepresse.qc.ca thebrokenspokeblog.wordpress.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca theguardian.com 0.333333333333333 Pascal Lapointe
+sciencepresse.qc.ca thenation.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca toutsepassecommesi.cafe-sciences.org 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca twitter.com 0.333333333333333 Pascal Lapointe
+sciencepresse.qc.ca wired.com 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca yaleclimatemediaforum.org 0.166666666666667 Pascal Lapointe
+sciencepresse.qc.ca fmlsj.ca 0.166666666666667 Accros de la foret
+sciencepresse.qc.ca fr.wikipedia.org 0.166666666666667 Accros de la foret
+sciencepresse.qc.ca greenpeace.org 0.166666666666667 Accros de la foret
+sciencepresse.qc.ca arxiv.org 0.166666666666667 Bruno Letarte
+sciencepresse.qc.ca cyberpresse.ca 0.166666666666667 Bruno Letarte
+sciencepresse.qc.ca en.wikipedia.org 0.5 Bruno Letarte
+sciencepresse.qc.ca fr.wikipedia.org 0.166666666666667 Bruno Letarte
+sciencepresse.qc.ca huffingtonpost.com 0.166666666666667 Bruno Letarte
+sciencepresse.qc.ca nouvelles.umontreal.ca 0.166666666666667 Bruno Letarte
+sciencepresse.qc.ca picasaweb.google.com 0.166666666666667 Bruno Letarte
+sciencepresse.qc.ca saao.ac.za 0.333333333333333 Bruno Letarte
+sciencepresse.qc.ca salt.ac.za 0.166666666666667 Bruno Letarte
+sciencepresse.qc.ca sciencepresse.qc.ca 0.166666666666667 Bruno Letarte
+sciencepresse.qc.ca skatelescope.org 0.166666666666667 Bruno Letarte
+sciencepresse.qc.ca startribune.com 0.166666666666667 Bruno Letarte
+sciencepresse.qc.ca acs.qc.ca 0.5 Josée Nadia Drouin
+sciencepresse.qc.ca amazon.com 0.5 Josée Nadia Drouin
+sciencepresse.qc.ca antoine-ouellette.blogspot.ca 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca editionsdupassage.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca editionshurtubise.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca edstanke.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca edtrecarre.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca entrepotnumerique.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca laboutiquelva.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca mccord-museum.qc.ca 0.5 Josée Nadia Drouin
+sciencepresse.qc.ca michaelshermer.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca multim.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca myvirtualpaper.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca philippemoussette.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca qzina.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca radio-canada.ca 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca sciencepresse.qc.ca 0.833333333333333 Josée Nadia Drouin
+sciencepresse.qc.ca scientificamerican.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca sergelepage.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca shop.skeptic.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca skeptic.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca toddsieling.com 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca triptyque.qc.ca 0.166666666666667 Josée Nadia Drouin
+sciencepresse.qc.ca cominfosystems.com 0.166666666666667 Ariel Fenster
+sciencepresse.qc.ca csicop.org 0.166666666666667 Ariel Fenster
+sciencepresse.qc.ca en.wikipedia.org 0.166666666666667 Ariel Fenster
+sciencepresse.qc.ca mcgill.ca 1 Ariel Fenster
+sciencepresse.qc.ca sciencepresse.qc.ca 0.166666666666667 Ariel Fenster
+sciencepresse.qc.ca youtube.com 0.333333333333333 Ariel Fenster
+sciencepresse.qc.ca bit.ly 1 Blogue ta science
+sciencepresse.qc.ca cbc.ca 0.166666666666667 Blogue ta science
+sciencepresse.qc.ca news.brown.edu 0.166666666666667 Blogue ta science
+sciencepresse.qc.ca newsroom.ucla.edu 0.166666666666667 Blogue ta science
+sciencepresse.qc.ca pnas.org 0.166666666666667 Blogue ta science
+sciencepresse.qc.ca sciencedaily.com 0.166666666666667 Blogue ta science
+sciencepresse.qc.ca theglobeandmail.com 0.166666666666667 Blogue ta science
+sciencepresse.qc.ca youtube.com 0.166666666666667 Blogue ta science
+sciencepresse.qc.ca accromath.uqam.ca 0.166666666666667 La grande equation
+sciencepresse.qc.ca acfas.ca 0.166666666666667 La grande equation
+sciencepresse.qc.ca athena-energy.com 0.166666666666667 La grande equation
+sciencepresse.qc.ca cap.ca 0.166666666666667 La grande equation
+sciencepresse.qc.ca cfcas.org 0.166666666666667 La grande equation
+sciencepresse.qc.ca cgu-ugc.ca 0.166666666666667 La grande equation
+sciencepresse.qc.ca chm.ulaval.ca 0.166666666666667 La grande equation
+sciencepresse.qc.ca cmos.ca 0.166666666666667 La grande equation
+sciencepresse.qc.ca cnrseditions.fr 0.5 La grande equation
+sciencepresse.qc.ca conseildepresse.qc.ca 0.333333333333333 La grande equation
+sciencepresse.qc.ca csss.ca 0.166666666666667 La grande equation
+sciencepresse.qc.ca csz-scz.ca 0.166666666666667 La grande equation
+sciencepresse.qc.ca data.giss.nasa.gov 0.166666666666667 La grande equation
+sciencepresse.qc.ca facebook.com 0.166666666666667 La grande equation
+sciencepresse.qc.ca frq.gouv.qc.ca 0.333333333333333 La grande equation
+sciencepresse.qc.ca impactcampus.qc.ca 0.166666666666667 La grande equation
+sciencepresse.qc.ca lagrandeequation.ca 2 La grande equation
+sciencepresse.qc.ca mpe2013.org 0.5 La grande equation
+sciencepresse.qc.ca onlinelibrary.wiley.com 0.166666666666667 La grande equation
+sciencepresse.qc.ca opr.ca.gov 0.166666666666667 La grande equation
+sciencepresse.qc.ca pnas.org 0.166666666666667 La grande equation
+sciencepresse.qc.ca radio-canada.ca 0.166666666666667 La grande equation
+sciencepresse.qc.ca rsc-src.ca 0.166666666666667 La grande equation
+sciencepresse.qc.ca sciencepresse.qc.ca 0.833333333333333 La grande equation
+sciencepresse.qc.ca thestar.com 0.166666666666667 La grande equation
+sciencepresse.qc.ca voir.ca 0.333333333333333 La grande equation
+sciencepresse.qc.ca youtube.com 0.166666666666667 La grande equation
+sciencepresse.qc.ca gfii.fr 0.2 MyScienceWork
+sciencepresse.qc.ca libraryjournal.com 0.2 MyScienceWork
+sciencepresse.qc.ca mysciencework.com 4.6 MyScienceWork
+sciencepresse.qc.ca poynder.blogspot.fr 0.4 MyScienceWork
+sciencepresse.qc.ca sfpnet.fr 0.2 MyScienceWork
+sciencepresse.qc.ca sites.univ-provence.fr 0.4 MyScienceWork
+sciencepresse.qc.ca twitter.com 0.2 MyScienceWork
+sciencepresse.qc.ca cdpnq.gouv.qc.ca 0.166666666666667 Diane Ostiguy
+sciencepresse.qc.ca fapaq.gouv.qc.ca 1.16666666666667 Diane Ostiguy
+sciencepresse.qc.ca pleinderessources.gouv.qc.ca 0.333333333333333 Diane Ostiguy
+sciencepresse.qc.ca portesouvertes.mrnf.gouv.qc.ca 0.166666666666667 Diane Ostiguy
+sciencepresse.qc.ca quebecoiseaux.org 0.166666666666667 Diane Ostiguy
+sciencepresse.qc.ca sos-pop@quebecoiseaux.org 0.166666666666667 Diane Ostiguy
+sciencepresse.qc.ca acfas.ca 1 Antoine Bonvoisin
+sciencepresse.qc.ca cathybazinet.com 0.333333333333333 Antoine Bonvoisin
+sciencepresse.qc.ca clubdesmedecinsblogueurs.com 0.166666666666667 Antoine Bonvoisin
+sciencepresse.qc.ca docadrenaline.wordpress.com 0.166666666666667 Antoine Bonvoisin
+sciencepresse.qc.ca faccom.uqam.ca 0.166666666666667 Antoine Bonvoisin
+sciencepresse.qc.ca facebook.com 0.166666666666667 Antoine Bonvoisin
+sciencepresse.qc.ca franceculture.fr 0.166666666666667 Antoine Bonvoisin
+sciencepresse.qc.ca hon.ch 0.166666666666667 Antoine Bonvoisin
+sciencepresse.qc.ca le-gerar.blogspot.ca 0.166666666666667 Antoine Bonvoisin
+sciencepresse.qc.ca medecine.2.0.free.fr 0.166666666666667 Antoine Bonvoisin
+sciencepresse.qc.ca observers.france24.com 0.166666666666667 Antoine Bonvoisin
+sciencepresse.qc.ca ow.ly 10.5 Antoine Bonvoisin
+sciencepresse.qc.ca passeportsante.net 0.166666666666667 Antoine Bonvoisin
+sciencepresse.qc.ca radio-canada.ca 0.166666666666667 Antoine Bonvoisin
+sciencepresse.qc.ca sciencepresse.qc.ca 1.5 Antoine Bonvoisin
+sciencepresse.qc.ca twitter.com 0.166666666666667 Antoine Bonvoisin
+sciencepresse.qc.ca nrk.no 0.333333333333333 Bruno Fortin
+sciencepresse.qc.ca tv.nrk.no 0.166666666666667 Bruno Fortin
+sciencepresse.qc.ca  0.666666666666667 Audrey Yank
+sciencepresse.qc.ca africarice.org 0.333333333333333 Audrey Yank
+sciencepresse.qc.ca americana.org 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca assnat.qc.ca 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca bioservice.ca 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca desjardins.com 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca digitaljournal.com 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca enerkem.com 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca equiterre.org 0.333333333333333 Audrey Yank
+sciencepresse.qc.ca fpc.state.gov 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca fr.wikipedia.org 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca globalnews.ca 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca horizonenviro.com 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca huffingtonpost.ca 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca in.reuters.com 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca line9campaign.wordpress.com 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca math.350.org 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca modulo-beton.com 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca ncbi.nlm.nih.gov 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca news.nationalpost.com 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca pembina.org 0.333333333333333 Audrey Yank
+sciencepresse.qc.ca radio-canada.ca 0.666666666666667 Audrey Yank
+sciencepresse.qc.ca reseau-environnement.com 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca sciencepresse.qc.ca 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca sierraclub.typepad.com 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca spiraltrans.ca 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca switchboard.nrdc.org 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca tarfree613.ca 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca tarsandswatch.org 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca thestar.com 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca torontosun.com 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca vancouverobserver.com 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca watchfrog.fr 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca watershedsentinel.ca 0.166666666666667 Audrey Yank
+sciencepresse.qc.ca acs.qc.ca 0.166666666666667 Cercle scientifique
+sciencepresse.qc.ca afn.ca 0.166666666666667 Cercle scientifique
+sciencepresse.qc.ca baleinesendirect.org 0.333333333333333 Cercle scientifique
+sciencepresse.qc.ca davidsuzuki.org 1.16666666666667 Cercle scientifique
+sciencepresse.qc.ca elc.uvic.ca 0.166666666666667 Cercle scientifique
+sciencepresse.qc.ca fao.org 0.333333333333333 Cercle scientifique
+sciencepresse.qc.ca fishwatch.gov 0.333333333333333 Cercle scientifique
+sciencepresse.qc.ca foodqualitynews.com 0.166666666666667 Cercle scientifique
+sciencepresse.qc.ca fqppu.org 0.166666666666667 Cercle scientifique
+sciencepresse.qc.ca futura-sciences.com 0.166666666666667 Cercle scientifique
+sciencepresse.qc.ca iarc.fr 0.166666666666667 Cercle scientifique
+sciencepresse.qc.ca ic.gc.ca 0.333333333333333 Cercle scientifique
+sciencepresse.qc.ca ipcc.ch 0.333333333333333 Cercle scientifique
+sciencepresse.qc.ca journaldemontreal.com 0.166666666666667 Cercle scientifique
+sciencepresse.qc.ca lactualite.com 0.333333333333333 Cercle scientifique
+sciencepresse.qc.ca ledevoir.com 1.16666666666667 Cercle scientifique
+sciencepresse.qc.ca nmfs.noaa.gov 0.166666666666667 Cercle scientifique
+sciencepresse.qc.ca noaa.gov 0.166666666666667 Cercle scientifique
+sciencepresse.qc.ca nouvelles.gc.ca 0.166666666666667 Cercle scientifique
+sciencepresse.qc.ca oikosjournal.wordpress.com 0.166666666666667 Cercle scientifique
+sciencepresse.qc.ca ouranos.ca 0.166666666666667 Cercle scientifique
+sciencepresse.qc.ca quebec.huffingtonpost.ca 0.333333333333333 Cercle scientifique
+sciencepresse.qc.ca radio-canada.ca 0.333333333333333 Cercle scientifique
+sciencepresse.qc.ca seafoodid.com 0.333333333333333 Cercle scientifique
+sciencepresse.qc.ca senseaboutscience.org 0.166666666666667 Cercle scientifique
+sciencepresse.qc.ca who.int 0.166666666666667 Cercle scientifique
+sciencepresse.qc.ca 24hgold.com 0.166666666666667 Alexis Reymbaut
+sciencepresse.qc.ca en.wikipedia.org 0.166666666666667 Alexis Reymbaut
+sciencepresse.qc.ca fr.wikipedia.org 1.16666666666667 Alexis Reymbaut
+sciencepresse.qc.ca ph.utexas.edu 0.166666666666667 Alexis Reymbaut
+sciencepresse.qc.ca physique.usherbrooke.ca 0.333333333333333 Alexis Reymbaut
+sciencepresse.qc.ca prl.aps.org 0.333333333333333 Alexis Reymbaut
+sciencepresse.qc.ca sciencemag.org 0.333333333333333 Alexis Reymbaut
+sciencepresse.qc.ca sciencepresse.qc.ca 6.33333333333333 Alexis Reymbaut
+sciencepresse.qc.ca web.mit.edu 0.166666666666667 Alexis Reymbaut
+sciencepresse.qc.ca youtube.com 0.833333333333333 Alexis Reymbaut
+sciencepresse.qc.ca cell.com 0.333333333333333 Gail Ouellette
+sciencepresse.qc.ca claude.hamonet.free.fr 0.333333333333333 Gail Ouellette
+sciencepresse.qc.ca gailmaladiesrares.blogspot.ca 0.333333333333333 Gail Ouellette
+sciencepresse.qc.ca khou.com 0.333333333333333 Gail Ouellette
+sciencepresse.qc.ca lapresse.ca 0.333333333333333 Gail Ouellette
+sciencepresse.qc.ca laws-lois.justice.gc.ca 0.333333333333333 Gail Ouellette
+sciencepresse.qc.ca ledevoir.com 0.333333333333333 Gail Ouellette
+sciencepresse.qc.ca mosaique-maladies-rares.org 0.333333333333333 Gail Ouellette
+sciencepresse.qc.ca msss.gouv.qc.ca 1 Gail Ouellette
+sciencepresse.qc.ca radio-canada.ca 0.333333333333333 Gail Ouellette
+sciencepresse.qc.ca rqmo.org 0.333333333333333 Gail Ouellette
+sciencepresse.qc.ca 1.bp.blogspot.com 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca 2.bp.blogspot.com 0.666666666666667 Sebastien Carassou
+sciencepresse.qc.ca 3.bp.blogspot.com 0.833333333333333 Sebastien Carassou
+sciencepresse.qc.ca 4.bp.blogspot.com 0.833333333333333 Sebastien Carassou
+sciencepresse.qc.ca agora.qc.ca 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca amaranthpublishing.com 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca astrosophia.free.fr 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca bigbrowser.blog.lemonde.fr 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca cieletespaceradio.fr 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca collectifconscience.com 0.5 Sebastien Carassou
+sciencepresse.qc.ca coolcosmos.ipac.caltech.edu 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca esa.int 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca fr.wikipedia.org 0.333333333333333 Sebastien Carassou
+sciencepresse.qc.ca hermetic.com 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca imgur.com 0.333333333333333 Sebastien Carassou
+sciencepresse.qc.ca keplersdiscovery.com 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca meshugganeh.tumblr.com 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca normandbastien.com 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca planetary.org 0.333333333333333 Sebastien Carassou
+sciencepresse.qc.ca setiathome.free.fr 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca soundpossibilities.wordpress.com 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca space.com 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca spacetelescope.org 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca stufftoblowyourmind.com 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca upload.wikimedia.org 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca vimeo.com 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca web-sciences.com 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca www2.cndp.fr 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca youtu.be 1.33333333333333 Sebastien Carassou
+sciencepresse.qc.ca youtube.com 0.333333333333333 Sebastien Carassou
+sciencepresse.qc.ca zuko.com 0.166666666666667 Sebastien Carassou
+sciencepresse.qc.ca ecolemontrealaise.info 0.166666666666667 Jean Pierre Urbain
+sciencepresse.qc.ca iso.org 0.166666666666667 Jean Pierre Urbain
+sciencepresse.qc.ca arc-cancer.net 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca cancer.ca 1.16666666666667 Bruno Geoffroy
+sciencepresse.qc.ca cancer.gov 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca cancerpreventionresearch.aacrjournals.org 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca chu-lyon.fr 0.333333333333333 Bruno Geoffroy
+sciencepresse.qc.ca crchum.com 0.333333333333333 Bruno Geoffroy
+sciencepresse.qc.ca e-cancer.fr 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca flhw.org 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca gscpchum.org 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca hc-sc.gc.ca 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca iris.banq.qc.ca 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca jama.jamanetwork.com 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca pca3.org 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca prias-project.org 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca prostatecancerat42.blogspot.ca 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca prostatecancerbc.ca 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca sciencepresse.qc.ca 1.83333333333333 Bruno Geoffroy
+sciencepresse.qc.ca urofrance.org 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca vivresamort.wordpress.com 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca voyageavecmoncancer.blogspot.ca 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca youtu.be 0.166666666666667 Bruno Geoffroy
+sciencepresse.qc.ca action2.davidsuzuki.org 0.166666666666667 Envi2bio
+sciencepresse.qc.ca benita-loca.com 0.166666666666667 Envi2bio
+sciencepresse.qc.ca boutique.cascades.com 0.166666666666667 Envi2bio
+sciencepresse.qc.ca envi2bio.com 1.83333333333333 Envi2bio
+sciencepresse.qc.ca facebook.com 0.666666666666667 Envi2bio
+sciencepresse.qc.ca flickr.com 0.333333333333333 Envi2bio
+sciencepresse.qc.ca foiresavoirfaire.org 0.166666666666667 Envi2bio
+sciencepresse.qc.ca iom.int 0.166666666666667 Envi2bio
+sciencepresse.qc.ca lemonde.fr 0.166666666666667 Envi2bio
+sciencepresse.qc.ca marchepourlaterre.org 0.833333333333333 Envi2bio
+sciencepresse.qc.ca nature-art.blogspot.ca 0.166666666666667 Envi2bio
+sciencepresse.qc.ca ofii.fr 0.166666666666667 Envi2bio
+sciencepresse.qc.ca recyclart.org 0.166666666666667 Envi2bio
+sciencepresse.qc.ca res-sources.be 0.166666666666667 Envi2bio
+sciencepresse.qc.ca reseau-idee.be 0.166666666666667 Envi2bio
+sciencepresse.qc.ca twibbon.com 0.166666666666667 Envi2bio
+sciencepresse.qc.ca twitter.com 0.333333333333333 Envi2bio
+sciencepresse.qc.ca archipel.uqam.ca 0.666666666666667 Cathy Bazinet
+sciencepresse.qc.ca blogsgrms.com 0.666666666666667 Cathy Bazinet
+sciencepresse.qc.ca cathybazinet.com 1 Cathy Bazinet
+sciencepresse.qc.ca epatientdave.com 0.333333333333333 Cathy Bazinet
+sciencepresse.qc.ca hon.ch 0.666666666666667 Cathy Bazinet
+sciencepresse.qc.ca leplus.nouvelobs.com 0.333333333333333 Cathy Bazinet
+sciencepresse.qc.ca participatorymedicine.org 0.333333333333333 Cathy Bazinet
+sciencepresse.qc.ca pewinternet.org 0.333333333333333 Cathy Bazinet
+sciencepresse.qc.ca research.microsoft.com 0.333333333333333 Cathy Bazinet
+sciencepresse.qc.ca aihasegawa.info 0.333333333333333 Vincent Menuz
+sciencepresse.qc.ca bbc.co.uk 0.333333333333333 Vincent Menuz
+sciencepresse.qc.ca dailymail.co.uk 0.333333333333333 Vincent Menuz
+sciencepresse.qc.ca dublin.sciencegallery.com 2 Vincent Menuz
+sciencepresse.qc.ca huffingtonpost.fr 0.666666666666667 Vincent Menuz
+sciencepresse.qc.ca philo-vaud.ch 0.333333333333333 Vincent Menuz
+sciencepresse.qc.ca slate.com 0.333333333333333 Vincent Menuz
+sciencepresse.qc.ca theguardian.com 0.333333333333333 Vincent Menuz
+sciencepresse.qc.ca b612foundation.org 0.166666666666667 Laurent Olivier
+sciencepresse.qc.ca cnes.fr 0.166666666666667 Laurent Olivier
+sciencepresse.qc.ca en.wikipedia.org 1.83333333333333 Laurent Olivier
+sciencepresse.qc.ca fallingstar.com 0.166666666666667 Laurent Olivier
+sciencepresse.qc.ca fr.wikipedia.org 0.833333333333333 Laurent Olivier
+sciencepresse.qc.ca icarusinterstellar.org 0.166666666666667 Laurent Olivier
+sciencepresse.qc.ca imdb.com 0.166666666666667 Laurent Olivier
+sciencepresse.qc.ca investopedia.com 0.166666666666667 Laurent Olivier
+sciencepresse.qc.ca io9.com 0.166666666666667 Laurent Olivier
+sciencepresse.qc.ca iopscience.iop.org 0.166666666666667 Laurent Olivier
+sciencepresse.qc.ca larecherche.fr 0.166666666666667 Laurent Olivier
+sciencepresse.qc.ca larousse.fr 0.166666666666667 Laurent Olivier
+sciencepresse.qc.ca lci.tf1.fr 0.333333333333333 Laurent Olivier
+sciencepresse.qc.ca lefigaro.fr 0.333333333333333 Laurent Olivier
+sciencepresse.qc.ca nasa.gov 0.833333333333333 Laurent Olivier
+sciencepresse.qc.ca neoshield.net 0.333333333333333 Laurent Olivier
+sciencepresse.qc.ca news.nationalpost.com 0.166666666666667 Laurent Olivier
+sciencepresse.qc.ca oxfordsparks.net 0.166666666666667 Laurent Olivier
+sciencepresse.qc.ca smsc.cnes.fr 0.166666666666667 Laurent Olivier
+sciencepresse.qc.ca space.com 0.5 Laurent Olivier
+sciencepresse.qc.ca starwars.wikia.com 0.166666666666667 Laurent Olivier
+sciencepresse.qc.ca youtube.com 0.166666666666667 Laurent Olivier
+sciencepresse.qc.ca aps.org 0.4 Eric Leuuwerk
+sciencepresse.qc.ca cohengroup.ccmr.cornell.edu 0.2 Eric Leuuwerk
+sciencepresse.qc.ca example.com 0.2 Eric Leuuwerk
+sciencepresse.qc.ca fr.wikipedia.org 0.2 Eric Leuuwerk
+sciencepresse.qc.ca laboiteverte.fr 0.2 Eric Leuuwerk
+sciencepresse.qc.ca mattbierbaum.github.com 0.2 Eric Leuuwerk
+sciencepresse.qc.ca physicsworld.com 0.2 Eric Leuuwerk
+sciencepresse.qc.ca sproutchlagrenouille.wordpress.com 1.4 Eric Leuuwerk
+sciencepresse.qc.ca weakinteractions.wordpress.com 0.2 Eric Leuuwerk
+sciencepresse.qc.ca youtube.com 0.8 Eric Leuuwerk
+sciencepresse.qc.ca lefigaro.fr 0.25 Melanie Jean
+sciencepresse.qc.ca maplanetebleue.com 0.75 Melanie Jean
+sciencepresse.qc.ca mddefp.gouv.qc.ca 0.25 Melanie Jean
+sciencepresse.qc.ca acfas.ca 0.166666666666667 David Carter
+sciencepresse.qc.ca affaires.lapresse.ca 0.166666666666667 David Carter
+sciencepresse.qc.ca ers.usda.gov 0.166666666666667 David Carter
+sciencepresse.qc.ca ethique.gouv.qc.ca 0.5 David Carter
+sciencepresse.qc.ca isaaa.org 0.333333333333333 David Carter
+sciencepresse.qc.ca nature.com 0.333333333333333 David Carter
+sciencepresse.qc.ca nfp59.ch 0.5 David Carter
+sciencepresse.qc.ca nytimes.com 0.166666666666667 David Carter
+sciencepresse.qc.ca oaq.qc.ca 0.666666666666667 David Carter
+sciencepresse.qc.ca ogm.gouv.qc.ca 0.166666666666667 David Carter
+sciencepresse.qc.ca sciencedirect.com 0.166666666666667 David Carter
+sciencepresse.qc.ca sciencepresse.qc.ca 0.666666666666667 David Carter
+sciencepresse.qc.ca supremecourt.gov 0.166666666666667 David Carter
+sciencepresse.qc.ca tiehh.ttu.edu 0.166666666666667 David Carter
+sciencepresse.qc.ca vdf.ethz.ch 0.5 David Carter
+sciencepresse.qc.ca accessavoirs.ulaval.ca 0.166666666666667 Florence Piron
+sciencepresse.qc.ca alltrials.net 0.166666666666667 Florence Piron
+sciencepresse.qc.ca amazon.com 0.166666666666667 Florence Piron
+sciencepresse.qc.ca arl.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca badscience.net 0.166666666666667 Florence Piron
+sciencepresse.qc.ca blogs.nature.com 0.166666666666667 Florence Piron
+sciencepresse.qc.ca bmj.com 0.5 Florence Piron
+sciencepresse.qc.ca commissionrecherche.com 0.333333333333333 Florence Piron
+sciencepresse.qc.ca cyber.law.harvard.edu 0.333333333333333 Florence Piron
+sciencepresse.qc.ca docs.google.com 0.166666666666667 Florence Piron
+sciencepresse.qc.ca economist.com 0.166666666666667 Florence Piron
+sciencepresse.qc.ca eduscol.education.fr 0.166666666666667 Florence Piron
+sciencepresse.qc.ca edx.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca elifesciences.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca forbes.com 0.166666666666667 Florence Piron
+sciencepresse.qc.ca galaxyzoo.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca gnu.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca grit-transversales.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca guardian.co.uk 0.166666666666667 Florence Piron
+sciencepresse.qc.ca hc-sc.gc.ca 0.166666666666667 Florence Piron
+sciencepresse.qc.ca independentsciencenews.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca inra.fr 0.166666666666667 Florence Piron
+sciencepresse.qc.ca iom.edu 0.166666666666667 Florence Piron
+sciencepresse.qc.ca lapresse.ca 0.166666666666667 Florence Piron
+sciencepresse.qc.ca leo.hypotheses.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca mailto:scienceetbiencommun@gmail.com 0.166666666666667 Florence Piron
+sciencepresse.qc.ca marketwire.com 0.166666666666667 Florence Piron
+sciencepresse.qc.ca mesrst.gouv.qc.ca 0.166666666666667 Florence Piron
+sciencepresse.qc.ca ncbi.nlm.nih.gov 0.166666666666667 Florence Piron
+sciencepresse.qc.ca networkedresearcher.co.uk 0.166666666666667 Florence Piron
+sciencepresse.qc.ca nybooks.com 0.166666666666667 Florence Piron
+sciencepresse.qc.ca nytimes.com 0.166666666666667 Florence Piron
+sciencepresse.qc.ca oecd.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca openaccessweek.org 0.333333333333333 Florence Piron
+sciencepresse.qc.ca opendatafoundation.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca opendefinition.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca openedition.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca opensocietyfoundations.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca orbi.ulg.ac.be 0.166666666666667 Florence Piron
+sciencepresse.qc.ca pantonprinciples.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca plos.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca recteur.blogs.ulg.ac.be 0.166666666666667 Florence Piron
+sciencepresse.qc.ca saveela.org 0.166666666666667 Florence Piron
+sciencepresse.qc.ca scienceetbiencommun.org 0.833333333333333 Florence Piron
+sciencepresse.qc.ca scienceetsociete.ulaval.ca 0.166666666666667 Florence Piron
+sciencepresse.qc.ca sourceforge.net 0.166666666666667 Florence Piron
+sciencepresse.qc.ca sshrc-crsh.gc.ca 0.166666666666667 Florence Piron
+sciencepresse.qc.ca surveymonkey.com 0.5 Florence Piron
+sciencepresse.qc.ca theatlantic.com 0.166666666666667 Florence Piron
+sciencepresse.qc.ca thestar.com 0.166666666666667 Florence Piron
+sciencepresse.qc.ca tuftsdaily.com 0.166666666666667 Florence Piron
+sciencepresse.qc.ca twitpic.com 0.166666666666667 Florence Piron
+sciencepresse.qc.ca wrap.warwick.ac.uk 0.166666666666667 Florence Piron
+sciencepresse.qc.ca blog.ted.com 0.666666666666667 Pauline Gagnon
+sciencepresse.qc.ca esa.int 0.333333333333333 Pauline Gagnon
+sciencepresse.qc.ca fr.wikipedia.org 0.333333333333333 Pauline Gagnon
+sciencepresse.qc.ca home.web.cern.ch 1 Pauline Gagnon
+sciencepresse.qc.ca quantumdiaries.org 6 Pauline Gagnon
+sciencepresse.qc.ca sciencepresse.qc.ca 1 Pauline Gagnon
+sciencepresse.qc.ca youtube.com 1.33333333333333 Pauline Gagnon
+sciencepresse.qc.ca climatechange2013.org 0.25 Mon Climat Ma sante
+sciencepresse.qc.ca inspq.qc.ca 1 Mon Climat Ma sante
+sciencepresse.qc.ca ipcc.ch 0.25 Mon Climat Ma sante
+sciencepresse.qc.ca monclimatmasante.qc.ca 2.5 Mon Climat Ma sante
+sciencepresse.qc.ca nasa.gov 0.25 Mon Climat Ma sante
+sciencepresse.qc.ca twitter.com 1 Mon Climat Ma sante
+sciencepresse.qc.ca blog-lecerveau.org 1.83333333333333 Le cerveau a tous les niveaux
+sciencepresse.qc.ca brainsciencepodcast.com 0.166666666666667 Le cerveau a tous les niveaux
+sciencepresse.qc.ca esciencecommons.blogspot.ca 0.333333333333333 Le cerveau a tous les niveaux
+sciencepresse.qc.ca knowingneurons.com 0.5 Le cerveau a tous les niveaux
+sciencepresse.qc.ca lecerveau.mcgill.ca 4.33333333333333 Le cerveau a tous les niveaux
+sciencepresse.qc.ca mindblog.dericbownds.net 0.166666666666667 Le cerveau a tous les niveaux
+sciencepresse.qc.ca online.liebertpub.com 0.166666666666667 Le cerveau a tous les niveaux
+sciencepresse.qc.ca philsci-archive.pitt.edu 0.166666666666667 Le cerveau a tous les niveaux
+sciencepresse.qc.ca psmag.com 0.333333333333333 Le cerveau a tous les niveaux
+sciencepresse.qc.ca sciencemag.org 0.166666666666667 Le cerveau a tous les niveaux
+sciencepresse.qc.ca sciencepresse.qc.ca 0.166666666666667 Le cerveau a tous les niveaux
+sciencepresse.qc.ca web.mit.edu 0.166666666666667 Le cerveau a tous les niveaux
+sciencepresse.qc.ca youtube.com 0.166666666666667 Le cerveau a tous les niveaux
+sciencepresse.qc.ca arianebeldi.wordpress.com 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca arxiv.org 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca astrogeo.oxfordjournals.org 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca blogs.univ-poitiers.fr 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca cometography.com 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca cpo.noaa.gov 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca data-rescue-at-home.org 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca fr.wikipedia.org 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca ist.ucf.edu 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca leif.org 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca oldweather.org 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca phdelirium.com 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca physique.umontreal.ca 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca sciencepresse.qc.ca 0.5 Yvan Dutil
+sciencepresse.qc.ca sites.google.com 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca static.berkeleyearth.org 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca undsci.berkeley.edu 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca web.sca.uqam.ca 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca youtu.be 0.166666666666667 Yvan Dutil
+sciencepresse.qc.ca aapnews.aappublications.org 0.166666666666667 Maman Eprouvette
+sciencepresse.qc.ca en.wikipedia.org 0.166666666666667 Maman Eprouvette
+sciencepresse.qc.ca ici.radio-canada.ca 0.166666666666667 Maman Eprouvette
+sciencepresse.qc.ca kli.psy.ruhr-uni-bochum.de 0.166666666666667 Maman Eprouvette
+sciencepresse.qc.ca mailto:info@mamaneprouvette.com 0.333333333333333 Maman Eprouvette
+sciencepresse.qc.ca mailto:infor@mamaneprouvette.com 0.166666666666667 Maman Eprouvette
+sciencepresse.qc.ca mamaneprouvette.com 1 Maman Eprouvette
+sciencepresse.qc.ca onlinelibrary.wiley.com 0.333333333333333 Maman Eprouvette
+sciencepresse.qc.ca pediatrics.aappublications.org 0.333333333333333 Maman Eprouvette
+sciencepresse.qc.ca pnas.org 0.166666666666667 Maman Eprouvette
+sciencepresse.qc.ca sciencedaily.com 0.166666666666667 Maman Eprouvette
+sciencepresse.qc.ca abb.com 0.2 Nathalie Guimond
+sciencepresse.qc.ca alexboyd.co.uk 0.2 Nathalie Guimond
+sciencepresse.qc.ca artfutura.org 0.2 Nathalie Guimond
+sciencepresse.qc.ca artmur.com 0.4 Nathalie Guimond
+sciencepresse.qc.ca ashdendirectory.org.uk 0.2 Nathalie Guimond
+sciencepresse.qc.ca edwinmorgan.com 0.2 Nathalie Guimond
+sciencepresse.qc.ca etsmtl.ca 0.2 Nathalie Guimond
+sciencepresse.qc.ca firebrandglass.ca 0.2 Nathalie Guimond
+sciencepresse.qc.ca gulbenkian.org.uk 0.2 Nathalie Guimond
+sciencepresse.qc.ca ibtauris.com 0.2 Nathalie Guimond
+sciencepresse.qc.ca museesmontreal.org 0.2 Nathalie Guimond
+sciencepresse.qc.ca sat.qc.ca 0.4 Nathalie Guimond
+sciencepresse.qc.ca science24heures.com 0.2 Nathalie Guimond
+sciencepresse.qc.ca strandbeest.com 0.2 Nathalie Guimond
+sciencepresse.qc.ca ted.com 0.2 Nathalie Guimond
+sciencepresse.qc.ca villedeverre.com 0.2 Nathalie Guimond
+sciencepresse.qc.ca wired.com 0.2 Nathalie Guimond
+sciencepresse.qc.ca alzheimer.ca 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca arcticnet.ulaval.ca 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca arduino.cc 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca bbc.co.uk 0.333333333333333 Labo Journalisme Scientifique
+sciencepresse.qc.ca bio.ulaval.ca 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca biologicalpsychiatryjournal.com 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca carnaval.qc.ca 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca cell.com 0.333333333333333 Labo Journalisme Scientifique
+sciencepresse.qc.ca designspark.com 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca diy.org 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca epigenome.eu 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca futura-sciences.com 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca gatesfoundation.org 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca hak5.org 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca icahn.mssm.edu 0.333333333333333 Labo Journalisme Scientifique
+sciencepresse.qc.ca icemanwimhof.com 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca impactcampus.qc.ca 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca ipcc.ch 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca iusmm.ca 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca ledevoir.com 0.333333333333333 Labo Journalisme Scientifique
+sciencepresse.qc.ca mailto: maxime.bilodeau.2@ulaval.ca 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca mailto:thomas.duchaine.1@ulaval.ca 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca nature.com 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca ncbi.nlm.nih.gov 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca news.discovery.com 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca picower.mit.edu 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca sciencedaily.com 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca sciencemag.org 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca wifipineapple.com 0.166666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca youtube.com 1.16666666666667 Labo Journalisme Scientifique
+sciencepresse.qc.ca astrolab-parc-national-mont-megantic.org 0.166666666666667 J Bouchez
+sciencepresse.qc.ca astrosurf.com 0.166666666666667 J Bouchez
+sciencepresse.qc.ca aura.gsfc.nasa.gov 0.333333333333333 J Bouchez
+sciencepresse.qc.ca biology.ualberta.ca 0.166666666666667 J Bouchez
+sciencepresse.qc.ca cdsweb.u-strasbg.fr 0.166666666666667 J Bouchez
+sciencepresse.qc.ca climate.nasa.gov 0.166666666666667 J Bouchez
+sciencepresse.qc.ca compte Pinterest 0.166666666666667 J Bouchez
+sciencepresse.qc.ca darksky.org 0.5 J Bouchez
+sciencepresse.qc.ca espacepourlavie.ca 0.166666666666667 J Bouchez
+sciencepresse.qc.ca faaq.org 0.166666666666667 J Bouchez
+sciencepresse.qc.ca facebook.com 0.333333333333333 J Bouchez
+sciencepresse.qc.ca fr.wikipedia.org 0.166666666666667 J Bouchez
+sciencepresse.qc.ca ga.water.usgs.gov 0.166666666666667 J Bouchez
+sciencepresse.qc.ca globeatnight.org 0.166666666666667 J Bouchez
+sciencepresse.qc.ca guardian.co.uk 0.166666666666667 J Bouchez
+sciencepresse.qc.ca idaquebec.org 0.166666666666667 J Bouchez
+sciencepresse.qc.ca jeremybouchez.files.wordpress.com 0.166666666666667 J Bouchez
+sciencepresse.qc.ca ledevoir.com 0.166666666666667 J Bouchez
+sciencepresse.qc.ca maxisciences.com 0.166666666666667 J Bouchez
+sciencepresse.qc.ca mddep.gouv.qc.ca 0.166666666666667 J Bouchez
+sciencepresse.qc.ca news.nationalgeographic.com 0.166666666666667 J Bouchez
+sciencepresse.qc.ca nhc.noaa.gov 0.166666666666667 J Bouchez
+sciencepresse.qc.ca polarbearsinternational.org 0.333333333333333 J Bouchez
+sciencepresse.qc.ca qualitaircorse.org 0.166666666666667 J Bouchez
+sciencepresse.qc.ca sciencepresse.qc.ca 0.166666666666667 J Bouchez
+sciencepresse.qc.ca sciencesenviro.com 2 J Bouchez
+sciencepresse.qc.ca skyandtelescope.com 0.166666666666667 J Bouchez
+sciencepresse.qc.ca slideboom.com 0.166666666666667 J Bouchez
+sciencepresse.qc.ca twitter.com 0.166666666666667 J Bouchez
+sciencepresse.qc.ca unesco.org 0.333333333333333 J Bouchez
+sciencepresse.qc.ca vieenvert.telequebec.tv 0.166666666666667 J Bouchez
+sciencepresse.qc.ca wsfcs.k12.nc.us 0.166666666666667 J Bouchez
+couleur-science.eu acs.psu.edu 0.1 Couleur Science
+couleur-science.eu anl.gov 0.05 Couleur Science
+couleur-science.eu arfy.fr 0.05 Couleur Science
+couleur-science.eu arxiv.org 0.1 Couleur Science
+couleur-science.eu commons.wikimedia.org 0.3 Couleur Science
+couleur-science.eu couleur-science.eu 0.15 Couleur Science
+couleur-science.eu davidmanise.com 0.05 Couleur Science
+couleur-science.eu en.wikipedia.org 0.1 Couleur Science
+couleur-science.eu es.flinders.edu.au 0.05 Couleur Science
+couleur-science.eu flickr.com 0.2 Couleur Science
+couleur-science.eu fr.wikipedia.org 0.3 Couleur Science
+couleur-science.eu hyperphysics.phy-astr.gsu.edu 0.05 Couleur Science
+couleur-science.eu lefigaro.fr 0.05 Couleur Science
+couleur-science.eu lehollandaisvolant.net 0.45 Couleur Science
+couleur-science.eu nature.com 0.05 Couleur Science
+couleur-science.eu numerama.com 0.05 Couleur Science
+couleur-science.eu pt.wikipedia.org 0.05 Couleur Science
+couleur-science.eu repairfaq.org 0.05 Couleur Science
+couleur-science.eu sciforums.com 0.05 Couleur Science
+couleur-science.eu secouchermoinsbete.fr 0.1 Couleur Science
+couleur-science.eu sps.ch 0.05 Couleur Science
+couleur-science.eu tsgphysics.mit.edu 0.05 Couleur Science
+couleur-science.eu wallbase.cc 0.15 Couleur Science
+couleur-science.eu youtube.com 0.5 Couleur Science
+scilogs.fr  0.714285714285714 Alterscience
+scilogs.fr #ftn1 0.142857142857143 Alterscience
+scilogs.fr #ftn6 0.142857142857143 Alterscience
+scilogs.fr #retour1 0.285714285714286 Alterscience
+scilogs.fr #retour2 0.285714285714286 Alterscience
+scilogs.fr #retour3 0.285714285714286 Alterscience
+scilogs.fr #retour4 0.142857142857143 Alterscience
+scilogs.fr bibnum.over-blog.com 0.142857142857143 Alterscience
+scilogs.fr books.google.fr 0.142857142857143 Alterscience
+scilogs.fr cafe-sciences.org 0.142857142857143 Alterscience
+scilogs.fr catalogue.bnf.fr 0.142857142857143 Alterscience
+scilogs.fr cis-ca.org 0.142857142857143 Alterscience
+scilogs.fr ehess.fr 0.142857142857143 Alterscience
+scilogs.fr en.wikipedia.org 0.428571428571429 Alterscience
+scilogs.fr energies.sfen.org 0.142857142857143 Alterscience
+scilogs.fr fr.wikipedia.org 0.285714285714286 Alterscience
+scilogs.fr fr.wiktionary.org 0.142857142857143 Alterscience
+scilogs.fr gallica.bnf.fr 0.285714285714286 Alterscience
+scilogs.fr halshs.archives-ouvertes.fr 0.142857142857143 Alterscience
+scilogs.fr institutdiderot.fr 0.142857142857143 Alterscience
+scilogs.fr islamopedia.fr 0.142857142857143 Alterscience
+scilogs.fr larevueparlementaire.fr 0.142857142857143 Alterscience
+scilogs.fr le-cep.org 0.142857142857143 Alterscience
+scilogs.fr liberation.fr 0.142857142857143 Alterscience
+scilogs.fr maths-et-physique.net 0.285714285714286 Alterscience
+scilogs.fr nexus.fr 0.142857142857143 Alterscience
+scilogs.fr nexusmagazine.com 0.142857142857143 Alterscience
+scilogs.fr pourlascience.fr 0.142857142857143 Alterscience
+scilogs.fr pseudo-sciences.org 0.142857142857143 Alterscience
+scilogs.fr rives.revues.org 0.142857142857143 Alterscience
+scilogs.fr sciencedirect.com 0.142857142857143 Alterscience
+scilogs.fr scilogs.fr 1 Alterscience
+scilogs.fr sphere.univ-paris-diderot.fr 0.142857142857143 Alterscience
+scilogs.fr www2.jlml.fr 0.142857142857143 Alterscience
+scilogs.fr  0.9 Best of Bestioles
+scilogs.fr scilogs.fr 1 Best of Bestioles
+scilogs.fr (en.uoc.gr 0.125 Cerveau aux hormones
+scilogs.fr annuaire-cdf.revues.org 0.125 Cerveau aux hormones
+scilogs.fr gopetition.com 0.125 Cerveau aux hormones
+scilogs.fr itneuro.aviesan.fr 0.25 Cerveau aux hormones
+scilogs.fr nature.com 0.25 Cerveau aux hormones
+scilogs.fr ncbi.nlm.nih.gov 0.25 Cerveau aux hormones
+scilogs.fr pnas.org 0.125 Cerveau aux hormones
+scilogs.fr #cecile 0.1 Intelligence mécanique
+scilogs.fr #thomas 0.1 Intelligence mécanique
+scilogs.fr culture-science-paca.org 0.3 Intelligence mécanique
+scilogs.fr en.wikipedia.org 0.2 Intelligence mécanique
+scilogs.fr facebook.com 0.1 Intelligence mécanique
+scilogs.fr fr.wikipedia.org 0.7 Intelligence mécanique
+scilogs.fr github.com 0.3 Intelligence mécanique
+scilogs.fr images.math.cnrs.fr 0.1 Intelligence mécanique
+scilogs.fr inb.u-bordeaux2.fr 0.1 Intelligence mécanique
+scilogs.fr inriamecsci.github.io 0.4 Intelligence mécanique
+scilogs.fr interstices.info 0.1 Intelligence mécanique
+scilogs.fr loria.fr 0.2 Intelligence mécanique
+scilogs.fr mitpress.mit.edu 0.1 Intelligence mécanique
+scilogs.fr odilejacob.fr 0.1 Intelligence mécanique
+scilogs.fr publimath.irem.univ-mrs.fr 0.1 Intelligence mécanique
+scilogs.fr scilogs.fr 1.2 Intelligence mécanique
+scilogs.fr webdocs.cs.ualberta.ca 0.2 Intelligence mécanique
+scilogs.fr www-anw.cs.umass.edu 0.1 Intelligence mécanique
+scilogs.fr www-sop.inria.fr 0.6 Intelligence mécanique
+scilogs.fr youtube.com 0.5 Intelligence mécanique
+scilogs.fr  0.571428571428571 Ecoblog
+scilogs.fr cbd.int 0.142857142857143 Ecoblog
+scilogs.fr fr.wikipedia.org 0.142857142857143 Ecoblog
+scilogs.fr libe.ma 0.142857142857143 Ecoblog
+scilogs.fr plosbiology.org 0.142857142857143 Ecoblog
+scilogs.fr scilogs.fr 0.857142857142857 Ecoblog
+scilogs.fr sierraclub.org 0.142857142857143 Ecoblog
+scilogs.fr theguardian.com 0.142857142857143 Ecoblog
+scilogs.fr citeseerx.ist.psu.edu 0.142857142857143 Complexites
+scilogs.fr en.wikipedia.org 0.285714285714286 Complexites
+scilogs.fr fr.wikipedia.org 0.285714285714286 Complexites
+scilogs.fr jstor.org 0.142857142857143 Complexites
+scilogs.fr pourlascience.fr 0.571428571428571 Complexites
+scilogs.fr scholar.google.fr 0.142857142857143 Complexites
+scilogs.fr xa.yimg.com 0.142857142857143 Complexites
+scilogs.fr arxiv.org 0.1 L'actu sur le divan
+scilogs.fr cahiers-pedagogiques.com 0.1 L'actu sur le divan
+scilogs.fr cerveauetpsycho.fr 0.4 L'actu sur le divan
+scilogs.fr dailymotion.com 0.2 L'actu sur le divan
+scilogs.fr en.wikipedia.org 0.1 L'actu sur le divan
+scilogs.fr europe1.fr 0.2 L'actu sur le divan
+scilogs.fr gentside.com 0.2 L'actu sur le divan
+scilogs.fr hss.caltech.edu 0.1 L'actu sur le divan
+scilogs.fr lemonde.fr 0.2 L'actu sur le divan
+scilogs.fr poesie.webnet.fr 0.1 L'actu sur le divan
+scilogs.fr pourlascience.fr 0.2 L'actu sur le divan
+scilogs.fr psychologytoday.com 0.1 L'actu sur le divan
+scilogs.fr researchgate.net 0.1 L'actu sur le divan
+scilogs.fr sciencedirect.com 0.1 L'actu sur le divan
+scilogs.fr scilogs.fr 1.8 L'actu sur le divan
+scilogs.fr e-orientations.com 0.1 L'énervement me gagne
+scilogs.fr fr.wikipedia.org 0.1 L'énervement me gagne
+scilogs.fr lours.org 0.1 L'énervement me gagne
+scilogs.fr scilogs.fr 0.1 L'énervement me gagne
+scilogs.fr  0.166666666666667 Mémoire et cie
+scilogs.fr pss.sagepub.com 0.166666666666667 Mémoire et cie
+scilogs.fr scilogs.fr 0.666666666666667 Mémoire et cie
+scilogs.fr  0.375 Physique et objets du quotidien
+scilogs.fr repairfaq.org 0.125 Physique et objets du quotidien
+scilogs.fr scilogs.fr 0.625 Physique et objets du quotidien
+scilogs.fr  0.1 Prospective spatiale
+scilogs.fr cieletespace.fr 0.1 Prospective spatiale
+scilogs.fr clyde-space.com 0.1 Prospective spatiale
+scilogs.fr cnes.fr 0.1 Prospective spatiale
+scilogs.fr cubesat.free.fr 0.1 Prospective spatiale
+scilogs.fr cubesat.org 0.2 Prospective spatiale
+scilogs.fr cubesatkit.com 0.1 Prospective spatiale
+scilogs.fr cubesatshop.com 0.1 Prospective spatiale
+scilogs.fr culture.fr 0.2 Prospective spatiale
+scilogs.fr darpa.mil 0.1 Prospective spatiale
+scilogs.fr en.wikipedia.org 0.1 Prospective spatiale
+scilogs.fr estcube.eu 0.1 Prospective spatiale
+scilogs.fr examiner.com 0.1 Prospective spatiale
+scilogs.fr fr.wikipedia.org 0.4 Prospective spatiale
+scilogs.fr futura-sciences.com 0.1 Prospective spatiale
+scilogs.fr google.fr 0.3 Prospective spatiale
+scilogs.fr heavens-above.com 0.1 Prospective spatiale
+scilogs.fr hq.nasa.gov 0.1 Prospective spatiale
+scilogs.fr i.space.com 0.2 Prospective spatiale
+scilogs.fr iac2013.org 0.1 Prospective spatiale
+scilogs.fr iadc-online.org 0.1 Prospective spatiale
+scilogs.fr iafastro.com 0.1 Prospective spatiale
+scilogs.fr iafastro.org 0.1 Prospective spatiale
+scilogs.fr kiss.caltech.edu 0.2 Prospective spatiale
+scilogs.fr laboiteverte.fr 0.1 Prospective spatiale
+scilogs.fr messenger.jhuapl.edu 0.1 Prospective spatiale
+scilogs.fr nasa.gov 0.5 Prospective spatiale
+scilogs.fr news.sciencemag.org 0.1 Prospective spatiale
+scilogs.fr novanano.com 0.1 Prospective spatiale
+scilogs.fr orbital.com 0.1 Prospective spatiale
+scilogs.fr petitions.whitehouse.gov 0.1 Prospective spatiale
+scilogs.fr pourlascience.fr 0.2 Prospective spatiale
+scilogs.fr qb50.eu 0.1 Prospective spatiale
+scilogs.fr science.nasa.gov 0.1 Prospective spatiale
+scilogs.fr sciencesetavenir.fr 0.1 Prospective spatiale
+scilogs.fr scilogs.fr 1.3 Prospective spatiale
+scilogs.fr shinryu.fr 0.1 Prospective spatiale
+scilogs.fr space.com 0.2 Prospective spatiale
+scilogs.fr space.epfl.ch 0.1 Prospective spatiale
+scilogs.fr spacenews.com 0.1 Prospective spatiale
+scilogs.fr spacex.com 0.3 Prospective spatiale
+scilogs.fr spudislunarresources.com 0.1 Prospective spatiale
+scilogs.fr vimeo.com 0.1 Prospective spatiale
+scilogs.fr youtube.com 0.3 Prospective spatiale
+scilogs.fr  0.1 Psycho info
+scilogs.fr scilogs.fr 1.4 Psycho info
+scilogs.fr amazon.com 0.5 Raison et psychologie
+scilogs.fr book-e-book.com 0.5 Raison et psychologie
+scilogs.fr bouger-la-vie.com 0.5 Raison et psychologie
+scilogs.fr fr.wikipedia.org 1 Raison et psychologie
+scilogs.fr link.springer.com 0.5 Raison et psychologie
+scilogs.fr mondes-de-lumiere.eklablog.fr 0.5 Raison et psychologie
+scilogs.fr ncbi.nlm.nih.gov 0.5 Raison et psychologie
+scilogs.fr pseudo-sciences.org 0.5 Raison et psychologie
+scilogs.fr sciencedirect.com 0.5 Raison et psychologie
+scilogs.fr scilogs.fr 0.5 Raison et psychologie
+scilogs.fr villemin.gerard.free.fr 0.5 Raison et psychologie
+scilogs.fr vinemedium.com.au 0.5 Raison et psychologie
+scilogs.fr facebook.com 0.5 Revue de blogs
+scilogs.fr plus.google.com 0.5 Revue de blogs
+scilogs.fr sciencepresse.qc.ca 1.5 Revue de blogs
+scilogs.fr scilogs.fr 11 Revue de blogs
+scilogs.fr twitter.com 0.5 Revue de blogs
+scilogs.fr pourlascience.fr 1 Réflexions stochastiques
+scilogs.fr lemonde.fr 0.1 Scientaisies
+scilogs.fr scilogs.fr 0.1 Scientaisies
+scilogs.fr  0.2 Signal sur bruit
+scilogs.fr comingsoon.net 0.1 Signal sur bruit
+scilogs.fr dicodephysique.fr 0.2 Signal sur bruit
+scilogs.fr lapth.cnrs.fr 0.2 Signal sur bruit
+scilogs.fr persee.fr 0.9 Signal sur bruit
+scilogs.fr pourlascience.fr 0.1 Signal sur bruit
+scilogs.fr scilogs.fr 0.9 Signal sur bruit
+scilogs.fr scitation.aip.org 0.2 Signal sur bruit
+scilogs.fr youtube.com 0.1 Signal sur bruit
+scilogs.fr scilogs.fr 0.1 Vive la connaissance
+passeurdesciences.blog.lemonde.fr aeon.co 0.2 Passeur de sciences
+passeurdesciences.blog.lemonde.fr ajpmonline.org 0.2 Passeur de sciences
+passeurdesciences.blog.lemonde.fr alasource.blog.lemonde.fr 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr archeo.blog.lemonde.fr 0.2 Passeur de sciences
+passeurdesciences.blog.lemonde.fr autourduciel.blog.lemonde.fr 0.2 Passeur de sciences
+passeurdesciences.blog.lemonde.fr bbc.co.uk 0.4 Passeur de sciences
+passeurdesciences.blog.lemonde.fr binaire.blog.lemonde.fr 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr blogs.wsj.com 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr drive.google.com 0.4 Passeur de sciences
+passeurdesciences.blog.lemonde.fr economist.com 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr facebook.com 1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr futura-sciences.com 0.7 Passeur de sciences
+passeurdesciences.blog.lemonde.fr google.fr 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr independent.co.uk 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr jama.jamanetwork.com 0.2 Passeur de sciences
+passeurdesciences.blog.lemonde.fr laculturevolcan.blogspot.fr 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr lapresse.ca 0.3 Passeur de sciences
+passeurdesciences.blog.lemonde.fr latimes.com 0.3 Passeur de sciences
+passeurdesciences.blog.lemonde.fr lefigaro.fr 0.2 Passeur de sciences
+passeurdesciences.blog.lemonde.fr lemonde.fr 0.9 Passeur de sciences
+passeurdesciences.blog.lemonde.fr letemps.ch 0.6 Passeur de sciences
+passeurdesciences.blog.lemonde.fr link.springer.com 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr mysciencework.com 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr nature.com 0.2 Passeur de sciences
+passeurdesciences.blog.lemonde.fr nautil.us 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr ncbi.nlm.nih.gov 0.4 Passeur de sciences
+passeurdesciences.blog.lemonde.fr neurology.org 0.3 Passeur de sciences
+passeurdesciences.blog.lemonde.fr news.nationalgeographic.com 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr news.sciencemag.org 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr newscientist.com 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr nobelprize.org 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr nutraingredients-usa.com 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr nytimes.com 0.3 Passeur de sciences
+passeurdesciences.blog.lemonde.fr passeurdesciences.blog.lemonde.fr 3.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr plosone.org 0.2 Passeur de sciences
+passeurdesciences.blog.lemonde.fr prweb.com 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr psmag.com 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr rfi.fr 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr sciencedirect.com 0.3 Passeur de sciences
+passeurdesciences.blog.lemonde.fr sciences.blogs.liberation.fr 0.3 Passeur de sciences
+passeurdesciences.blog.lemonde.fr sciencesetavenir.fr 0.2 Passeur de sciences
+passeurdesciences.blog.lemonde.fr slate.com 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr space.com 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr spc.univ-lyon1.fr 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr tdg.ch 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr telegraph.co.uk 0.3 Passeur de sciences
+passeurdesciences.blog.lemonde.fr tempsreel.nouvelobs.com 0.2 Passeur de sciences
+passeurdesciences.blog.lemonde.fr theconversation.com 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr theguardian.com 0.4 Passeur de sciences
+passeurdesciences.blog.lemonde.fr topsante.com 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr toutsepassecommesi.cafe-sciences.org 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr twitter.com 1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr uni-tuebingen.de 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr usatoday.com 0.1 Passeur de sciences
+passeurdesciences.blog.lemonde.fr vitalchoice.com 0.1 Passeur de sciences
+biopsci.com alexnewsblog.com 0.1 Biopsci
+biopsci.com altmetric.com 0.1 Biopsci
+biopsci.com amazon.fr 0.1 Biopsci
+biopsci.com arstechnica.com 0.1 Biopsci
+biopsci.com arxiv.org 0.1 Biopsci
+biopsci.com bioinfo-fr.net 0.1 Biopsci
+biopsci.com biopsci.com 1.1 Biopsci
+biopsci.com biorxiv.org 0.1 Biopsci
+biopsci.com bjoern.brembs.net 0.1 Biopsci
+biopsci.com blog.chron.com 0.1 Biopsci
+biopsci.com blogs.discovermagazine.com 0.1 Biopsci
+biopsci.com cafe-sciences.org 0.2 Biopsci
+biopsci.com cbsnews.com 0.1 Biopsci
+biopsci.com classiques.uqac.ca 0.1 Biopsci
+biopsci.com dinosauria.org 0.1 Biopsci
+biopsci.com doubtfulnews.com 0.1 Biopsci
+biopsci.com du-cote-de-chez-elysia-chlorotica.blogspot.ch 0.1 Biopsci
+biopsci.com elifesciences.org 0.1 Biopsci
+biopsci.com en.wikipedia.org 0.6 Biopsci
+biopsci.com enveurope.com 0.1 Biopsci
+biopsci.com fr.wikipedia.org 3.9 Biopsci
+biopsci.com freethoughtblogs.com 0.1 Biopsci
+biopsci.com frontiersin.org 0.1 Biopsci
+biopsci.com genome.ucsc.edu 0.1 Biopsci
+biopsci.com genomicron.evolverzone.com 0.1 Biopsci
+biopsci.com illumina.com 0.1 Biopsci
+biopsci.com lebloug.fr 0.1 Biopsci
+biopsci.com lemonde.fr 0.1 Biopsci
+biopsci.com michaeleisen.org 0.3 Biopsci
+biopsci.com michaelgrayer.posterous.com 0.1 Biopsci
+biopsci.com nature.com 0.2 Biopsci
+biopsci.com ncbi.nlm.nih.gov 0.6 Biopsci
+biopsci.com oaspa.org 0.1 Biopsci
+biopsci.com occamstypewriter.org 0.1 Biopsci
+biopsci.com podcastscience.fm 0.1 Biopsci
+biopsci.com pubpeer.com 0.1 Biopsci
+biopsci.com recentlyapp.com 0.1 Biopsci
+biopsci.com rspb.royalsocietypublishing.org 0.2 Biopsci
+biopsci.com scholarlyoa.com 0.2 Biopsci
+biopsci.com science20.com 0.1 Biopsci
+biopsci.com sciencedirect.com 0.5 Biopsci
+biopsci.com sciencemag.org 0.7 Biopsci
+biopsci.com slate.fr 0.1 Biopsci
+biopsci.com svpow.com 0.1 Biopsci
+biopsci.com tempsreel.nouvelobs.com 0.3 Biopsci
+biopsci.com thema.cafe-sciences.org 0.2 Biopsci
+biopsci.com tomroud.cafe-sciences.org 0.1 Biopsci
+biopsci.com toutsepassecommesi.cafe-sciences.org 0.9 Biopsci
+biopsci.com tumourrasmoinsbete.blogspot.ch 0.1 Biopsci
+biopsci.com upload.wikimedia.org 0.1 Biopsci
+biopsci.com vidberg.blog.lemonde.fr 0.1 Biopsci
+biopsci.com weedcontrolfreaks.com 0.3 Biopsci
+toutsepassecommesi.cafe-sciences.org #maj1 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org artangel.org.uk 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org arxiv.org 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org bbc.co.uk 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org bigbrowser.blog.lemonde.fr 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org biocomicals.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org bioinfo-fr.net 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org biomickwatson.wordpress.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org biopsci.com 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org bizarrocomics.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org blogs.plos.org 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org blogs.univ-poitiers.fr 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org bloomassociation.org 0.5 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org boston.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org bouletcorp.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org cafe-sciences.org 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org commonfund.nih.gov 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org dailymailoncology.tumblr.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org dilbert.com 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org dinosauria.org 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org discovermagazine.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org du-cote-de-chez-elysia-chlorotica.blogspot.ch 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org dx.doi.org 0.3 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org ebi.ac.uk 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org ecologie.blog.lemonde.fr 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org editions-lepommier.fr 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org embor.embopress.org 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org en.wikipedia.org 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org esajournals.org 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org evocellnet.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org fr.wikipedia.org 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org francetvinfo.fr 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org grist.org 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org illumina.com 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org kfolta.blogspot.ch 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org lapresse.ca 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org lemonde.fr 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org leplus.nouvelobs.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org lexpress.fr 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org lifetechnologies.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org liorpachter.wordpress.com 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org nature.com 0.7 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org nobelprize.org 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org nytimes.com 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org okspecialtyfruits.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org passeurdesciences.blog.lemonde.fr 0.3 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org penelope-jolicoeur.com 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org petition.bloomassociation.org 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org phdcomics.com 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org ploscompbiol.org 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org pourlascience.fr 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org radiobrume.fr 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org rspb.royalsocietypublishing.org 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org scholar.google.ch 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org scholar.google.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org sciencedirect.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org sciencepresse.qc.ca 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org scilogs.fr 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org selectome.unil.ch 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org simplystatistics.org 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org soundofscience.fr 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org t.co 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org technologyreview.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org theguardian.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org theoatmeal.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org thinkin-lincoln.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org tomroud.cafe-sciences.org 0.2 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org topics.nytimes.com 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org toutsepassecommesi.blogspot.ch 0.1 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org toutsepassecommesi.cafe-sciences.org 1.4 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org twitter.com 2.4 Tout se passe comme si
+toutsepassecommesi.cafe-sciences.org wired.com 0.1 Tout se passe comme si
+alamain.info  alamain.info 0.1 A la main
+alamain.info  futura-sciences.com 0.1 A la main
+alamain.info  imagine.gsfc.nasa.gov 0.1 A la main
+alamain.info  ncbi.nlm.nih.gov 0.1 A la main
+alamain.info alamain.info 1 A la main
+alamain.info anpaa.asso.fr 0.1 A la main
+alamain.info axiomcafe.fr 0.1 A la main
+alamain.info blogs.mediapart.fr 0.1 A la main
+alamain.info fr.wikipedia.org 0.1 A la main
+alamain.info gizmodo.com 0.1 A la main
+alamain.info linternaute.com 0.1 A la main
+alamain.info mnn.com 0.1 A la main
+alamain.info plosone.org 0.1 A la main
+alamain.info standard.co.uk 0.1 A la main
+alamain.info tatoufaux.com 0.1 A la main
+alamain.info vimeo.com 0.1 A la main
+alasource.blog.lemonde.fr  hal.archives-ouvertes.fr 0.1 A la source
+alasource.blog.lemonde.fr ac-aix-marseille.fr 0.1 A la source
+alasource.blog.lemonde.fr adni.loni.usc.edu 0.1 A la source
+alasource.blog.lemonde.fr adoptahydrant.org 0.1 A la source
+alasource.blog.lemonde.fr alasource.blogs.nouvelobs.com 0.1 A la source
+alasource.blog.lemonde.fr americasarmy.com 0.1 A la source
+alasource.blog.lemonde.fr arcep.fr 0.1 A la source
+alasource.blog.lemonde.fr brainhack.org 0.1 A la source
+alasource.blog.lemonde.fr cairn.info 0.1 A la source
+alasource.blog.lemonde.fr cell.com 0.1 A la source
+alasource.blog.lemonde.fr childmind.org 0.1 A la source
+alasource.blog.lemonde.fr cityofboston.gov 0.1 A la source
+alasource.blog.lemonde.fr cordis.europa.eu 0.1 A la source
+alasource.blog.lemonde.fr dl.free.fr 0.1 A la source
+alasource.blog.lemonde.fr fcon_1000.projects.nitrc.org 0.2 A la source
+alasource.blog.lemonde.fr figurerunning.com 0.1 A la source
+alasource.blog.lemonde.fr forbes.com 0.1 A la source
+alasource.blog.lemonde.fr institut-entreprise.fr 0.2 A la source
+alasource.blog.lemonde.fr internetactu.net 0.1 A la source
+alasource.blog.lemonde.fr ja.games.free.fr 0.1 A la source
+alasource.blog.lemonde.fr ktm-advance.com 0.1 A la source
+alasource.blog.lemonde.fr lemonde.fr 1.5 A la source
+alasource.blog.lemonde.fr mecanika.ca 0.1 A la source
+alasource.blog.lemonde.fr mysteresdelascience.fr 0.1 A la source
+alasource.blog.lemonde.fr nature.com 0.1 A la source
+alasource.blog.lemonde.fr ncbi.nlm.nih.gov 0.4 A la source
+alasource.blog.lemonde.fr openfmri.org 0.1 A la source
+alasource.blog.lemonde.fr openstreetmap.fr 0.1 A la source
+alasource.blog.lemonde.fr plosone.org 0.1 A la source
+alasource.blog.lemonde.fr pps.sagepub.com 0.1 A la source
+alasource.blog.lemonde.fr sciencedirect.com 0.1 A la source
+alasource.blog.lemonde.fr streetbump.org 0.1 A la source
+alasource.blog.lemonde.fr thefuntheory.com 0.1 A la source
+alasource.blog.lemonde.fr unilim.fr 0.1 A la source
+alasource.blog.lemonde.fr wowinschool.pbworks.com 0.1 A la source
+alasource.blog.lemonde.fr yoursquaremile.co.uk 0.1 A la source
+alasource.blog.lemonde.fr zippyware.com 0.1 A la source
+anthropoblog.fr 6secondscience.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr academie-sciences.fr 0.1 Anthropoblog
+anthropoblog.fr actualpokemons.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr ailleurs.ch 0.5 Anthropoblog
+anthropoblog.fr ajspi.com 0.2 Anthropoblog
+anthropoblog.fr allocine.fr 0.1 Anthropoblog
+anthropoblog.fr amcsti.fr 0.1 Anthropoblog
+anthropoblog.fr analogsf.com 0.1 Anthropoblog
+anthropoblog.fr anthropoblog.fr 6.4 Anthropoblog
+anthropoblog.fr artologica.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr arts-et-metiers.net 0.1 Anthropoblog
+anthropoblog.fr atomes-crochus.org 0.1 Anthropoblog
+anthropoblog.fr aureliebordenave.fr 0.1 Anthropoblog
+anthropoblog.fr bebesanimaux.sciencesnaturelles.be 0.1 Anthropoblog
+anthropoblog.fr belial.fr 0.1 Anthropoblog
+anthropoblog.fr benoit.urgelli.free.fr 0.1 Anthropoblog
+anthropoblog.fr bibliotheque.toulouse.fr 0.1 Anthropoblog
+anthropoblog.fr blog.bnf.fr 0.1 Anthropoblog
+anthropoblog.fr bnf.fr 0.3 Anthropoblog
+anthropoblog.fr bonnesnouvelles.net 0.1 Anthropoblog
+anthropoblog.fr bragelonne.fr 0.1 Anthropoblog
+anthropoblog.fr brantonne.net 0.1 Anthropoblog
+anthropoblog.fr cafardcosmique.com 0.1 Anthropoblog
+anthropoblog.fr cafe-sciences.org 0.1 Anthropoblog
+anthropoblog.fr ccsti-grenoble.org 0.2 Anthropoblog
+anthropoblog.fr ccsti.fr 0.1 Anthropoblog
+anthropoblog.fr cielmondoctorat.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr cite-sciences.fr 0.4 Anthropoblog
+anthropoblog.fr clemi.org 0.1 Anthropoblog
+anthropoblog.fr culture-sf.com 0.1 Anthropoblog
+anthropoblog.fr danslapeaudunours.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr denoel.fr 0.1 Anthropoblog
+anthropoblog.fr dinosaursruleeverythingaroundme.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr echosciences-grenoble.fr 2.2 Anthropoblog
+anthropoblog.fr ecsite.eu 0.1 Anthropoblog
+anthropoblog.fr edilivre.com 0.1 Anthropoblog
+anthropoblog.fr editions-actusf.fr 0.1 Anthropoblog
+anthropoblog.fr editions-lepommier.fr 0.3 Anthropoblog
+anthropoblog.fr edusismo.org 0.1 Anthropoblog
+anthropoblog.fr en.wikipedia.org 0.1 Anthropoblog
+anthropoblog.fr ensta-paristech.fr 0.2 Anthropoblog
+anthropoblog.fr espgg.org 0.1 Anthropoblog
+anthropoblog.fr essonnediaries.fr 0.1 Anthropoblog
+anthropoblog.fr eusja.org 0.1 Anthropoblog
+anthropoblog.fr facebook.com 0.1 Anthropoblog
+anthropoblog.fr fakescience.org 0.1 Anthropoblog
+anthropoblog.fr fayard.fr 0.1 Anthropoblog
+anthropoblog.fr flickr.com 0.2 Anthropoblog
+anthropoblog.fr fondation-lamap.org 0.4 Anthropoblog
+anthropoblog.fr fr.linkedin.com 0.2 Anthropoblog
+anthropoblog.fr fr.wikipedia.org 4.8 Anthropoblog
+anthropoblog.fr freshphotons.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr fuckyeahartandscience.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr fuckyeahmathandsciencetattoos.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr fuckyeahsciencejokes.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr futureofscience.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr geologie.ens.fr 0.1 Anthropoblog
+anthropoblog.fr griffedencre.fr 0.1 Anthropoblog
+anthropoblog.fr incandescence.com 0.1 Anthropoblog
+anthropoblog.fr influence-ethique.fr 0.1 Anthropoblog
+anthropoblog.fr jadelemaitre.fr 0.8 Anthropoblog
+anthropoblog.fr jailu.com 0.2 Anthropoblog
+anthropoblog.fr jesuisarcheologue.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr knowtex.com 0.1 Anthropoblog
+anthropoblog.fr l-atalante.com 0.1 Anthropoblog
+anthropoblog.fr laffont.fr 0.2 Anthropoblog
+anthropoblog.fr lavolte.net 0.1 Anthropoblog
+anthropoblog.fr leauemoi.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr lecavalierbleu.com 0.1 Anthropoblog
+anthropoblog.fr lemonde.fr 0.1 Anthropoblog
+anthropoblog.fr lesjoiesducode.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr lespetitsdebrouillards.org 0.1 Anthropoblog
+anthropoblog.fr livredepoche.com 0.1 Anthropoblog
+anthropoblog.fr lookslikescience.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr lyonelkaufmann.ch 0.1 Anthropoblog
+anthropoblog.fr mashable.com 0.1 Anthropoblog
+anthropoblog.fr media-paris-saclay.fr 0.1 Anthropoblog
+anthropoblog.fr meirieu.com 0.1 Anthropoblog
+anthropoblog.fr mnemos.com 0.1 Anthropoblog
+anthropoblog.fr mnhn.fr 0.1 Anthropoblog
+anthropoblog.fr mondesetranges.fr 0.1 Anthropoblog
+anthropoblog.fr monecole.fr 0.1 Anthropoblog
+anthropoblog.fr moutons-electriques.fr 0.1 Anthropoblog
+anthropoblog.fr museum.toulouse.fr 0.3 Anthropoblog
+anthropoblog.fr neo.litterature-populaire.fr 0.1 Anthropoblog
+anthropoblog.fr noosfere.com 0.4 Anthropoblog
+anthropoblog.fr noosfere.org 0.1 Anthropoblog
+anthropoblog.fr nouvelles-avancees.ensta-paristech.fr 0.3 Anthropoblog
+anthropoblog.fr opendatarennes.wordpress.com 0.1 Anthropoblog
+anthropoblog.fr orbitbooks.fr 0.1 Anthropoblog
+anthropoblog.fr paris-montagne.org 0.1 Anthropoblog
+anthropoblog.fr passeurdesciences.blog.lemonde.fr 0.1 Anthropoblog
+anthropoblog.fr planete-sciences.org 0.1 Anthropoblog
+anthropoblog.fr podcastscience.fm 0.1 Anthropoblog
+anthropoblog.fr provaltis.com 0.1 Anthropoblog
+anthropoblog.fr pygmalionfantasy.com 0.1 Anthropoblog
+anthropoblog.fr quarante-deux.org 0.1 Anthropoblog
+anthropoblog.fr resf.hypotheses.org 0.1 Anthropoblog
+anthropoblog.fr revue.sesamath.net 0.1 Anthropoblog
+anthropoblog.fr riviereblanche.com 0.1 Anthropoblog
+anthropoblog.fr rumbatraciens.com 0.1 Anthropoblog
+anthropoblog.fr savoirs.essonne.fr 0.1 Anthropoblog
+anthropoblog.fr scenesdemeninges.fr 0.1 Anthropoblog
+anthropoblog.fr science-for-everyone.over-blog.com 0.1 Anthropoblog
+anthropoblog.fr science-is-porn.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr scienceon.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr scienceouverte.fr 0.1 Anthropoblog
+anthropoblog.fr sciencesalecole.org 0.2 Anthropoblog
+anthropoblog.fr sciencesnaturelles.be 0.1 Anthropoblog
+anthropoblog.fr scientificillustration.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr senat.fr 0.1 Anthropoblog
+anthropoblog.fr speakscience.net 0.1 Anthropoblog
+anthropoblog.fr stepfan.free.fr 0.1 Anthropoblog
+anthropoblog.fr trextrying.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr twitter.com 0.7 Anthropoblog
+anthropoblog.fr universcience.fr 0.2 Anthropoblog
+anthropoblog.fr utopiales.org 0.3 Anthropoblog
+anthropoblog.fr voyagesaucoeurdelascience.fr 0.1 Anthropoblog
+anthropoblog.fr wfsj.org 0.1 Anthropoblog
+anthropoblog.fr womeninspace.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr womenrockscience.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr wtfevolution.tumblr.com 0.1 Anthropoblog
+anthropoblog.fr www6.jouy.inra.fr 0.1 Anthropoblog
+anthropoblog.fr youtube.com 0.2 Anthropoblog
+homofabulus.com books.google.fr 0.1 Homo Fabulus
+homofabulus.com brainvitge.org 0.1 Homo Fabulus
+homofabulus.com caldwellcartoons.com 0.1 Homo Fabulus
+homofabulus.com cartoonstock.com 0.1 Homo Fabulus
+homofabulus.com citeseerx.ist.psu.edu 0.1 Homo Fabulus
+homofabulus.com dan.sperber.fr 0.1 Homo Fabulus
+homofabulus.com demotivationalpost.com 0.1 Homo Fabulus
+homofabulus.com digitalcommons.unl.edu 0.1 Homo Fabulus
+homofabulus.com discovery.ucl.ac.uk 0.2 Homo Fabulus
+homofabulus.com edge.org 0.2 Homo Fabulus
+homofabulus.com en.wikipedia.org 0.9 Homo Fabulus
+homofabulus.com eric.ed.gov 0.1 Homo Fabulus
+homofabulus.com fr.wikipedia.org 1.5 Homo Fabulus
+homofabulus.com global.oup.com 0.1 Homo Fabulus
+homofabulus.com homofabulus.com 3.9 Homo Fabulus
+homofabulus.com jstor.org 0.1 Homo Fabulus
+homofabulus.com ncbi.nlm.nih.gov 0.4 Homo Fabulus
+homofabulus.com onlinelibrary.wiley.com 0.3 Homo Fabulus
+homofabulus.com papers.ssrn.com 0.1 Homo Fabulus
+homofabulus.com philpapers.org 0.1 Homo Fabulus
+homofabulus.com pnas.org 0.1 Homo Fabulus
+homofabulus.com podcastscience.fm 0.1 Homo Fabulus
+homofabulus.com preposterousuniverse.com 0.1 Homo Fabulus
+homofabulus.com psp.sagepub.com 0.1 Homo Fabulus
+homofabulus.com psy2.ucsd.edu 0.2 Homo Fabulus
+homofabulus.com psycnet.apa.org 0.4 Homo Fabulus
+homofabulus.com researchgate.net 0.1 Homo Fabulus
+homofabulus.com sciencedirect.com 0.3 Homo Fabulus
+homofabulus.com sciencepresse.qc.ca 0.2 Homo Fabulus
+homofabulus.com sciencetonnante.wordpress.com 0.2 Homo Fabulus
+homofabulus.com sfgate.com 0.1 Homo Fabulus
+homofabulus.com sites.google.com 0.1 Homo Fabulus
+homofabulus.com sjsu.edu 0.2 Homo Fabulus
+homofabulus.com staff.science.uva.nl 0.1 Homo Fabulus
+homofabulus.com stats.org.uk 0.1 Homo Fabulus
+homofabulus.com stuffthathappens.com 0.1 Homo Fabulus
+homofabulus.com tandfonline.com 0.1 Homo Fabulus
+homofabulus.com themetapicture.com 0.1 Homo Fabulus
+homofabulus.com ucl.ac.uk 0.1 Homo Fabulus
+homofabulus.com uky.edu 0.2 Homo Fabulus
+homofabulus.com webinet.cafe-sciences.org 0.1 Homo Fabulus
+homofabulus.com wordpress.org 0.1 Homo Fabulus
+stripscience.cafe-sciences.org  0.1 Stripsciences
+stripscience.cafe-sciences.org alamain.info 0.1 Stripsciences
+stripscience.cafe-sciences.org bit.ly 0.1 Stripsciences
+stripscience.cafe-sciences.org cafe-de-la-cloche.org 0.1 Stripsciences
+stripscience.cafe-sciences.org chloevollmerlo.net 0.1 Stripsciences
+stripscience.cafe-sciences.org dessousdescience.cafe-sciences.org 0.2 Stripsciences
+stripscience.cafe-sciences.org espgg.org 0.3 Stripsciences
+stripscience.cafe-sciences.org facebook.com 0.3 Stripsciences
+stripscience.cafe-sciences.org festival-blogs-bd.com 0.2 Stripsciences
+stripscience.cafe-sciences.org fr.wikipedia.org 0.1 Stripsciences
+stripscience.cafe-sciences.org fumettomatic.com 0.1 Stripsciences
+stripscience.cafe-sciences.org glebcreation.fr 0.1 Stripsciences
+stripscience.cafe-sciences.org lapin.org 0.1 Stripsciences
+stripscience.cafe-sciences.org lebloug.fr 0.1 Stripsciences
+stripscience.cafe-sciences.org manger-experimenter.fr 0.1 Stripsciences
+stripscience.cafe-sciences.org podcastscience.fm 1.7 Stripsciences
+stripscience.cafe-sciences.org pourquoilecielestbleu.cafe-sciences.org 0.1 Stripsciences
+stripscience.cafe-sciences.org sirtin.fr 0.1 Stripsciences
+stripscience.cafe-sciences.org stripscience.cafe-sciences.org 9 Stripsciences
+stripscience.cafe-sciences.org twitter.com 0.4 Stripsciences
+kidiscience.cafe-sciences.org  0.1 Kidisciences
+kidiscience.cafe-sciences.org cea.fr 0.1 Kidisciences
+kidiscience.cafe-sciences.org easydoor.over-blog.com 0.1 Kidisciences
+kidiscience.cafe-sciences.org flickr.com 0.1 Kidisciences
+kidiscience.cafe-sciences.org fr.wikipedia.org 0.2 Kidisciences
+kidiscience.cafe-sciences.org guichetdusavoir.org 0.1 Kidisciences
+kidiscience.cafe-sciences.org kamsblog.org 0.1 Kidisciences
+kidiscience.cafe-sciences.org kidiscience.cafe-sciences.org 5.3 Kidisciences
+kidiscience.cafe-sciences.org leelydessin.com 0.1 Kidisciences
+kidiscience.cafe-sciences.org lemonde.fr 0.1 Kidisciences
+kidiscience.cafe-sciences.org lemondeetnous.cafe-sciences.org 0.4 Kidisciences
+kidiscience.cafe-sciences.org link.springer.com 0.1 Kidisciences
+kidiscience.cafe-sciences.org planeteparis.fr 0.1 Kidisciences
+kidiscience.cafe-sciences.org rsbl.royalsocietypublishing.org 0.1 Kidisciences
+kidiscience.cafe-sciences.org sirtin.fr 0.3 Kidisciences
+kidiscience.cafe-sciences.org ssaft.com 0.1 Kidisciences
+kidiscience.cafe-sciences.org stefcomics.blogspot.fr 0.2 Kidisciences
+kidiscience.cafe-sciences.org stream2.cma.gov.cn 0.1 Kidisciences
+kidiscience.cafe-sciences.org sweetrandomscience.blogspot.fr 0.3 Kidisciences
+kidiscience.cafe-sciences.org voyagesaucoeurdelascience.fr 0.8 Kidisciences
+bacterioblog.com #return-note-154-1 0.1 Bactérioblog
+bacterioblog.com #return-note-154-2 0.1 Bactérioblog
+bacterioblog.com #return-note-158-1 0.1 Bactérioblog
+bacterioblog.com #return-note-158-2 0.1 Bactérioblog
+bacterioblog.com #return-note-158-3 0.1 Bactérioblog
+bacterioblog.com bacterioblog.com 0.7 Bactérioblog
+bacterioblog.com biopsci.com 0.1 Bactérioblog
+bacterioblog.com cafe-sciences.org 0.1 Bactérioblog
+bacterioblog.com en.wikipedia.org 0.1 Bactérioblog
+bacterioblog.com flickr.com 0.1 Bactérioblog
+bacterioblog.com forbes.com 0.1 Bactérioblog
+bacterioblog.com fr.wikipedia.org 0.4 Bactérioblog
+bacterioblog.com google.com 0.1 Bactérioblog
+bacterioblog.com jnrbm.com 0.1 Bactérioblog
+bacterioblog.com knowtex.com 0.1 Bactérioblog
+bacterioblog.com lemonde.fr 0.1 Bactérioblog
+bacterioblog.com liberation.fr 0.1 Bactérioblog
+bacterioblog.com maps.google.com 0.1 Bactérioblog
+bacterioblog.com mbio.asm.org 0.1 Bactérioblog
+bacterioblog.com okano-lab.com 0.2 Bactérioblog
+bacterioblog.com onlinelibrary.wiley.com 0.1 Bactérioblog
+bacterioblog.com ownisciences.com 0.1 Bactérioblog
+bacterioblog.com pathogenomics.bham.ac.uk 0.1 Bactérioblog
+bacterioblog.com plosone.org 0.1 Bactérioblog
+bacterioblog.com prismedetete.net 0.1 Bactérioblog
+bacterioblog.com rechercheencours.fr 0.1 Bactérioblog
+bacterioblog.com research.sustainablefoodtrust.org 0.1 Bactérioblog
+bacterioblog.com rspb.royalsocietypublishing.org 0.1 Bactérioblog
+bacterioblog.com sante.lefigaro.fr 0.1 Bactérioblog
+bacterioblog.com sciencedirect.com 0.1 Bactérioblog
+bacterioblog.com sciences-et-democratie.net 0.1 Bactérioblog
+bacterioblog.com tempsreel.nouvelobs.com 0.1 Bactérioblog
+bacterioblog.com tomroud.owni.fr 0.2 Bactérioblog
+bacterioblog.com weedcontrolfreaks.com 0.2 Bactérioblog
+bacterioblog.com xkcd.com 0.1 Bactérioblog
+bacterioblog.com youtube.com 1.5 Bactérioblog
+comptoir.cafe-sciences.org alain-prunier.com 0.25 Le comptoir du Café
+comptoir.cafe-sciences.org amazon.co.uk 0.25 Le comptoir du Café
+comptoir.cafe-sciences.org amazon.com 0.25 Le comptoir du Café
+comptoir.cafe-sciences.org amazon.fr 0.5 Le comptoir du Café
+comptoir.cafe-sciences.org behavioralandbrainfunctions.com 0.25 Le comptoir du Café
+comptoir.cafe-sciences.org blogs.univ-poitiers.fr 1 Le comptoir du Café
+comptoir.cafe-sciences.org cafe-sciences.org 0.25 Le comptoir du Café
+comptoir.cafe-sciences.org comptoir.cafe-sciences.org 0.75 Le comptoir du Café
+comptoir.cafe-sciences.org dilbert.com 0.25 Le comptoir du Café
+comptoir.cafe-sciences.org en.wikipedia.org 0.25 Le comptoir du Café
+comptoir.cafe-sciences.org fr.wikipedia.org 0.75 Le comptoir du Café
+comptoir.cafe-sciences.org lecerveau.mcgill.ca 0.25 Le comptoir du Café
+comptoir.cafe-sciences.org ncbi.nlm.nih.gov 0.25 Le comptoir du Café
+comptoir.cafe-sciences.org thehawnfoundation.org 0.5 Le comptoir du Café
+comptoir.cafe-sciences.org thema.cafe-sciences.org 0.25 Le comptoir du Café
+comptoir.cafe-sciences.org twitter.com 0.25 Le comptoir du Café
+comptoir.cafe-sciences.org webinet.cafe-sciences.org 0.75 Le comptoir du Café
+comptoir.cafe-sciences.org xkcd.com 0.5 Le comptoir du Café
+lejournaldeschouettessavantes.cafe-sciences.org 20minutes.fr 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org amazon.fr 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org animaldiversity.ummz.umich.edu 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org apopo.org 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org bonial.fr 0.222222222222222 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org cgdc3.igmors.u-psud.fr 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org colvir.net 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org commons.wikimedia.org 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org cours-pharmacie.com 0.333333333333333 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org dailymotion.com 0.222222222222222 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org ead.univ-angers.fr 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org en.wikipedia.org 0.222222222222222 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org en.wikiquote.org 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org europeanurology.com 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org fr.wikipedia.org 3.55555555555556 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org fr.wikisource.org 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org franceinter.fr 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org francesoir.fr 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org futura-sciences.com 0.222222222222222 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org google.fr 0.333333333333333 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org ingenierie-ecologique.org 0.333333333333333 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org ist.inserm.fr 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org lagrandeepoque.com 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org lejournaldeschouettessavantes.cafe-sciences.org 3.22222222222222 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org liberation.fr 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org m6.fr 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org nanimoland.blogspot.com 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org nature.com 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org nemesistv.info 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org onlinelibrary.wiley.com 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org pasde0deconduite.org 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org pourlascience.fr 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org pseudo-sciences.org 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org psychologie.aujourdhui.com 0.444444444444444 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org raymond.rodriguez1.free.fr 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org sciencedirect.com 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org snv.jussieu.fr 0.555555555555556 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org svtcolin.blogspot.com 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org svtlagos.com 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org ted.com 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org torange-fr.com 0.111111111111111 Le journal des chouettes savantes
+lejournaldeschouettessavantes.cafe-sciences.org visoflora.com 0.222222222222222 Le journal des chouettes savantes
+webinet.cafe-sciences.org abundancetapestry.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org amazon.fr 0.3 Le webinet des curiosités
+webinet.cafe-sciences.org answers.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org asmp.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org bbc.co.uk 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org beheco.oxfordjournals.org 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org blog.lib.umn.edu 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org bos.frb.org 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org checkside.wordpress.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org code-collective.org 0.2 Le webinet des curiosités
+webinet.cafe-sciences.org college-de-france.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org dilbert.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org docs.google.com 0.2 Le webinet des curiosités
+webinet.cafe-sciences.org ecouterlautisme.blogspot.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org edanchin.fr 0.2 Le webinet des curiosités
+webinet.cafe-sciences.org edu.upmc.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org en.wikipedia.org 0.4 Le webinet des curiosités
+webinet.cafe-sciences.org epochtimes.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org europeansocialsurvey.org 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org fish-dont-exist.blogspot.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org flickr.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org fr.wikipedia.org 0.7 Le webinet des curiosités
+webinet.cafe-sciences.org futura-sciences.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org google.fr 0.2 Le webinet des curiosités
+webinet.cafe-sciences.org gurumed.org 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org histoirenondite.wordpress.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org ird.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org je-comprends-enfin.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org jeanmarcmorandini.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org kirstyfavell.wordpress.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org larecherche.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org latribune.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org lefigaro.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org lemonde.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org linkedin.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org liv.ac.uk 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org lolhome.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org lullabelly.com 0.2 Le webinet des curiosités
+webinet.cafe-sciences.org mozarteffect.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org mpra.ub.uni-muenchen.de 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org nanimoland.blogspot.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org nber.org 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org ncbi.nlm.nih.gov 0.3 Le webinet des curiosités
+webinet.cafe-sciences.org news.discovery.com 0.3 Le webinet des curiosités
+webinet.cafe-sciences.org nytimes.com 0.4 Le webinet des curiosités
+webinet.cafe-sciences.org planetastronomy.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org plus.maths.org 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org progressivehealth.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org psy.cmu.edu 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org psychologie-sociale.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org psycnet.apa.org 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org pure.rhul.ac.uk 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org ref-sciam.livejournal.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org rspb.royalsocietypublishing.org 0.3 Le webinet des curiosités
+webinet.cafe-sciences.org savoirs.ens.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org sciencedirect.com 0.2 Le webinet des curiosités
+webinet.cafe-sciences.org sciencesetavenir.nouvelobs.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org sciencetonnante.wordpress.com 0.2 Le webinet des curiosités
+webinet.cafe-sciences.org sciexplorer.blogspot.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org slate.fr 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org soumyabrata.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org sport24.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org stats.wikimedia.org 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org takepart.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org ted.com 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org usc.edu 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org webinet.cafe-sciences.org 2.1 Le webinet des curiosités
+webinet.cafe-sciences.org worldvaluessurvey.org 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org www2.gsu.edu 0.2 Le webinet des curiosités
+webinet.cafe-sciences.org www2.lse.ac.uk 0.1 Le webinet des curiosités
+webinet.cafe-sciences.org youtube.com 0.2 Le webinet des curiosités
+webinet.cafe-sciences.org zeropoint.ca 0.1 Le webinet des curiosités
+tomroud.cafe-sciences.org ascelibrary.org 0.1 Matières vivantes
+tomroud.cafe-sciences.org cafe-sciences.org 0.1 Matières vivantes
+tomroud.cafe-sciences.org contentviewer.adobe.com 0.1 Matières vivantes
+tomroud.cafe-sciences.org culturomics.org 0.1 Matières vivantes
+tomroud.cafe-sciences.org deuxieme-labo.fr 0.1 Matières vivantes
+tomroud.cafe-sciences.org en.wikipedia.org 0.5 Matières vivantes
+tomroud.cafe-sciences.org enduse.lbl.gov 0.1 Matières vivantes
+tomroud.cafe-sciences.org fr.wikipedia.org 0.1 Matières vivantes
+tomroud.cafe-sciences.org freakonometrics.hypotheses.org 0.1 Matières vivantes
+tomroud.cafe-sciences.org gizmodo.fr 0.1 Matières vivantes
+tomroud.cafe-sciences.org hal.archives-ouvertes.fr 0.1 Matières vivantes
+tomroud.cafe-sciences.org isisthescientist.com 0.2 Matières vivantes
+tomroud.cafe-sciences.org jaronlanier.com 0.1 Matières vivantes
+tomroud.cafe-sciences.org kellyhills.com 0.1 Matières vivantes
+tomroud.cafe-sciences.org krugman.blogs.nytimes.com 0.1 Matières vivantes
+tomroud.cafe-sciences.org law.stanford.edu 0.1 Matières vivantes
+tomroud.cafe-sciences.org lemonde.fr 0.1 Matières vivantes
+tomroud.cafe-sciences.org m.chronicle.com 0.1 Matières vivantes
+tomroud.cafe-sciences.org manhattan-institute.org 0.1 Matières vivantes
+tomroud.cafe-sciences.org michaeleisen.org 0.1 Matières vivantes
+tomroud.cafe-sciences.org mysciencework.com 0.1 Matières vivantes
+tomroud.cafe-sciences.org nature.com 0.1 Matières vivantes
+tomroud.cafe-sciences.org ncbi.nlm.nih.gov 0.1 Matières vivantes
+tomroud.cafe-sciences.org passeurdesciences.blog.lemonde.fr 0.1 Matières vivantes
+tomroud.cafe-sciences.org penserclasser.wordpress.com 0.2 Matières vivantes
+tomroud.cafe-sciences.org pnas.org 0.1 Matières vivantes
+tomroud.cafe-sciences.org preposterousuniverse.com 0.1 Matières vivantes
+tomroud.cafe-sciences.org retractionwatch.com 0.2 Matières vivantes
+tomroud.cafe-sciences.org scholar.google.com 0.1 Matières vivantes
+tomroud.cafe-sciences.org sciencepresse.qc.ca 0.1 Matières vivantes
+tomroud.cafe-sciences.org t.co 0.1 Matières vivantes
+tomroud.cafe-sciences.org tech-pundit.com 0.1 Matières vivantes
+tomroud.cafe-sciences.org the-scientist.com 0.1 Matières vivantes
+tomroud.cafe-sciences.org theguardian.com 0.2 Matières vivantes
+tomroud.cafe-sciences.org theregister.co.uk 0.1 Matières vivantes
+tomroud.cafe-sciences.org thinkprogress.org 0.2 Matières vivantes
+tomroud.cafe-sciences.org tomroud.cafe-sciences.org 1.5 Matières vivantes
+tomroud.cafe-sciences.org tomsguide.fr 0.1 Matières vivantes
+tomroud.cafe-sciences.org toutsepassecommesi.cafe-sciences.org 0.1 Matières vivantes
+tomroud.cafe-sciences.org twitter.com 0.5 Matières vivantes
+tomroud.cafe-sciences.org votonspourlascience.fr 0.1 Matières vivantes
+tomroud.cafe-sciences.org wired.com 0.2 Matières vivantes
+drgoulu.com acces.ens-lyon.fr 0.1 Pourquoi comment combien
+drgoulu.com admin.ch 0.1 Pourquoi comment combien
+drgoulu.com aftes.asso.fr 0.2 Pourquoi comment combien
+drgoulu.com arxiv.org 0.2 Pourquoi comment combien
+drgoulu.com bag.admin.ch 0.1 Pourquoi comment combien
+drgoulu.com books.google.com 0.6 Pourquoi comment combien
+drgoulu.com cafe-sciences.org 0.1 Pourquoi comment combien
+drgoulu.com docs.google.com 0.1 Pourquoi comment combien
+drgoulu.com dormirenfrance.fr 0.1 Pourquoi comment combien
+drgoulu.com drgoulu.com 12.4 Pourquoi comment combien
+drgoulu.com en.wikipedia.org 1.3 Pourquoi comment combien
+drgoulu.com erudit.org 0.1 Pourquoi comment combien
+drgoulu.com esgs.free.fr 0.1 Pourquoi comment combien
+drgoulu.com feeds.feedburner.com 3 Pourquoi comment combien
+drgoulu.com flickr.com 0.2 Pourquoi comment combien
+drgoulu.com fotuva.org 0.1 Pourquoi comment combien
+drgoulu.com fourmilab.ch 0.1 Pourquoi comment combien
+drgoulu.com fr.wikipedia.org 8.1 Pourquoi comment combien
+drgoulu.com futura-sciences.com 0.1 Pourquoi comment combien
+drgoulu.com gamelab.mit.edu 0.1 Pourquoi comment combien
+drgoulu.com gapingvoid.com 0.1 Pourquoi comment combien
+drgoulu.com godel-universe.com 0.1 Pourquoi comment combien
+drgoulu.com goodreads.com 0.2 Pourquoi comment combien
+drgoulu.com hls-dhs-dss.ch 0.1 Pourquoi comment combien
+drgoulu.com hydrelect.info 0.1 Pourquoi comment combien
+drgoulu.com id.erudit.org 0.1 Pourquoi comment combien
+drgoulu.com implenia.com 0.1 Pourquoi comment combien
+drgoulu.com infra-schweiz.ch 0.1 Pourquoi comment combien
+drgoulu.com insu.cnrs.fr 0.3 Pourquoi comment combien
+drgoulu.com invention.psychology.msstate.edu 0.1 Pourquoi comment combien
+drgoulu.com larecherche.fr 0.1 Pourquoi comment combien
+drgoulu.com madore.org 0.3 Pourquoi comment combien
+drgoulu.com math.uiuc.edu 0.1 Pourquoi comment combien
+drgoulu.com nant-de-drance.ch 0.3 Pourquoi comment combien
+drgoulu.com networkx.github.io 0.1 Pourquoi comment combien
+drgoulu.com news.ycombinator.com 0.1 Pourquoi comment combien
+drgoulu.com nsta.org 0.1 Pourquoi comment combien
+drgoulu.com office.microsoft.com 0.1 Pourquoi comment combien
+drgoulu.com oiseaux.net 0.1 Pourquoi comment combien
+drgoulu.com physics.isu.edu 0.1 Pourquoi comment combien
+drgoulu.com physicsworld.com 0.2 Pourquoi comment combien
+drgoulu.com plus.maths.org 0.1 Pourquoi comment combien
+drgoulu.com pourlascience.fr 1.1 Pourquoi comment combien
+drgoulu.com probeinternational.org 0.1 Pourquoi comment combien
+drgoulu.com quod.lib.umich.edu 0.2 Pourquoi comment combien
+drgoulu.com sciencedirect.com 0.1 Pourquoi comment combien
+drgoulu.com sciencetonnante.wordpress.com 0.1 Pourquoi comment combien
+drgoulu.com scitation.aip.org 0.1 Pourquoi comment combien
+drgoulu.com scribd.com 0.1 Pourquoi comment combien
+drgoulu.com sempedia.com 0.1 Pourquoi comment combien
+drgoulu.com sfrp.asso.fr 0.1 Pourquoi comment combien
+drgoulu.com stackoverflow.com 0.1 Pourquoi comment combien
+drgoulu.com stucky.ch 0.1 Pourquoi comment combien
+drgoulu.com thingiverse.com 0.1 Pourquoi comment combien
+drgoulu.com tunneltalk.com 0.3 Pourquoi comment combien
+drgoulu.com unz.org 0.1 Pourquoi comment combien
+drgoulu.com uv.es 0.1 Pourquoi comment combien
+drgoulu.com wikipedia.org 2.3 Pourquoi comment combien
+drgoulu.com world-nuclear.org 0.1 Pourquoi comment combien
+drgoulu.com worldcat.org 0.6 Pourquoi comment combien
+drgoulu.com www2.lifl.fr 0.1 Pourquoi comment combien
+drgoulu.com wwwobs.univ-bpclermont.fr 0.1 Pourquoi comment combien
+drgoulu.com youtube.com 0.1 Pourquoi comment combien
+drgoulu.com zapatopi.net 0.3 Pourquoi comment combien
+drgoulu.com zh.wikipedia.org 0.1 Pourquoi comment combien
+drgoulu.com zib.de 0.1 Pourquoi comment combien
+pourquoilecielestbleu.cafe-sciences.org addictovigilance.aphp.fr 0.1 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org esa.int 0.1 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org fr.wikipedia.org 0.9 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org lematin.ch 0.1 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org leplus.nouvelobs.com 0.1 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org liberation.fr 0.1 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org nature.com 0.1 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org ofdt.fr 0.1 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org onlinelibrary.wiley.com 0.3 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org pewinternet.org 0.1 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org pourquoilecielestbleu.cafe-sciences.org 2.5 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org pubs.acs.org 0.3 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org reddit.com 0.9 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org sciencedirect.com 0.2 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org sciencemag.org 0.4 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org snv.jussieu.fr 0.1 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org twitter.com 0.2 Pourquoi le ciel est bleu
+pourquoilecielestbleu.cafe-sciences.org youtube.com 0.1 Pourquoi le ciel est bleu
+sciencetonnante.wordpress.com 2012.igem.org 0.1 Science étonnante
+sciencetonnante.wordpress.com 500px.com 0.1 Science étonnante
+sciencetonnante.wordpress.com andrew-michaelson.com 0.1 Science étonnante
+sciencetonnante.wordpress.com archive.org 0.1 Science étonnante
+sciencetonnante.wordpress.com commons.wikimedia.org 0.2 Science étonnante
+sciencetonnante.wordpress.com cuiz.cafe24.com 0.1 Science étonnante
+sciencetonnante.wordpress.com ebureau.univ-reims.fr 0.1 Science étonnante
+sciencetonnante.wordpress.com ec.gc.ca 0.1 Science étonnante
+sciencetonnante.wordpress.com economist.com 0.1 Science étonnante
+sciencetonnante.wordpress.com eljjdx.canalblog.com 0.2 Science étonnante
+sciencetonnante.wordpress.com en.wikipedia.org 0.3 Science étonnante
+sciencetonnante.wordpress.com ethnologue.com 0.1 Science étonnante
+sciencetonnante.wordpress.com europhysicsnews.org 0.1 Science étonnante
+sciencetonnante.wordpress.com gomboc-shop.com 0.1 Science étonnante
+sciencetonnante.wordpress.com gomboc.eu 0.1 Science étonnante
+sciencetonnante.wordpress.com hsc.wvu.edu 0.1 Science étonnante
+sciencetonnante.wordpress.com kidiscience.cafe-sciences.org 0.1 Science étonnante
+sciencetonnante.wordpress.com mic.sgmjournals.org 0.1 Science étonnante
+sciencetonnante.wordpress.com ncbi.nlm.nih.gov 0.1 Science étonnante
+sciencetonnante.wordpress.com newsweek.com 0.1 Science étonnante
+sciencetonnante.wordpress.com podcastscience.fm 0.1 Science étonnante
+sciencetonnante.wordpress.com pourquoilecielestbleu.cafe-sciences.org 0.2 Science étonnante
+sciencetonnante.wordpress.com questions2physique.wordpress.com 0.1 Science étonnante
+sciencetonnante.wordpress.com science4all.org 0.1 Science étonnante
+sciencetonnante.wordpress.com sciencetonnante.files.wordpress.com 4.6 Science étonnante
+sciencetonnante.wordpress.com sirtin.fr 0.1 Science étonnante
+sciencetonnante.wordpress.com slate.com 0.1 Science étonnante
+sciencetonnante.wordpress.com ssaft.com 0.1 Science étonnante
+sciencetonnante.wordpress.com staff.um.edu.mt 0.1 Science étonnante
+sciencetonnante.wordpress.com terrytao.wordpress.com 0.1 Science étonnante
+sciencetonnante.wordpress.com thenation.com 0.1 Science étonnante
+sciencetonnante.wordpress.com webinet.blogspot.com 0.1 Science étonnante
+sciencetonnante.wordpress.com webinet.cafe-sciences.org 0.1 Science étonnante
+sciencetonnante.wordpress.com www-psych.stanford.edu 0.1 Science étonnante
+sciencetonnante.wordpress.com www2.psychology.uiowa.edu 0.1 Science étonnante
+sciencetonnante.wordpress.com youtube.com 0.1 Science étonnante
+scienceetconscience.wordpress.com abstracts.acs.org 0.1 Science, croyances et idées reçues
+scienceetconscience.wordpress.com en.wikipedia.org 0.4 Science, croyances et idées reçues
+scienceetconscience.wordpress.com fr.wikipedia.org 6 Science, croyances et idées reçues
+scienceetconscience.wordpress.com gsa.confex.com 0.1 Science, croyances et idées reçues
+scienceetconscience.wordpress.com mbe.oxfordjournals.org 0.1 Science, croyances et idées reçues
+scienceetconscience.wordpress.com mnhn.fr 0.1 Science, croyances et idées reçues
+scienceetconscience.wordpress.com mpg.de 0.1 Science, croyances et idées reçues
+scienceetconscience.wordpress.com nature.com 0.2 Science, croyances et idées reçues
+scienceetconscience.wordpress.com onlinelibrary.wiley.com 0.2 Science, croyances et idées reçues
+scienceetconscience.wordpress.com palais-decouverte.fr 0.1 Science, croyances et idées reçues
+scienceetconscience.wordpress.com pnas.org 0.1 Science, croyances et idées reçues
+scienceetconscience.wordpress.com scienceetconscience.wordpress.com 0.1 Science, croyances et idées reçues
+scienceetconscience.wordpress.com sciencemag.org 0.3 Science, croyances et idées reçues
+scienceabilly.com cehm.toulouse.free.fr 0.1 Science à Billy
+scienceabilly.com cmog.org 0.1 Science à Billy
+scienceabilly.com culture.ulg.ac.be 0.1 Science à Billy
+scienceabilly.com fr.wikipedia.org 0.1 Science à Billy
+scienceabilly.com nhm.ac.uk 0.1 Science à Billy
+scienceabilly.com podcastscience.fm 0.4 Science à Billy
+scienceabilly.com scienceabilly.com 0.3 Science à Billy
+scienceabilly.com scienceabilly.files.wordpress.com 6.4 Science à Billy
+scienceabilly.com toutsepassecommesi.cafe-sciences.org 0.1 Science à Billy
+scienceabilly.com ulg.ac.be 0.1 Science à Billy
+secrets-du-sommeil.com go.sleeper.edperceval.1.1tpe.net 0.2 Secrets du sommeil
+secrets-du-sommeil.com go.sleeper.fabienforme.1.1tpe.net 0.2 Secrets du sommeil
+secrets-du-sommeil.com institut-sommeil-vigilance.org 0.1 Secrets du sommeil
+secrets-du-sommeil.com secrets-du-sommeil.com 1.5 Secrets du sommeil
+archeo.blog.lemonde.fr abbayedefontevraud.com 0.142857142857143 Archeo
+archeo.blog.lemonde.fr abonnes.lemonde.fr 0.142857142857143 Archeo
+archeo.blog.lemonde.fr archeo.blog.lemonde.fr 1.42857142857143 Archeo
+archeo.blog.lemonde.fr beedl.anthro.uga.edu 0.142857142857143 Archeo
+archeo.blog.lemonde.fr blog.britishmuseum.org 0.142857142857143 Archeo
+archeo.blog.lemonde.fr britishmuseum.org 0.142857142857143 Archeo
+archeo.blog.lemonde.fr cap-sciences.net 0.142857142857143 Archeo
+archeo.blog.lemonde.fr chronique.efa.gr 0.142857142857143 Archeo
+archeo.blog.lemonde.fr clio.fr 0.142857142857143 Archeo
+archeo.blog.lemonde.fr cnrs.fr 0.142857142857143 Archeo
+archeo.blog.lemonde.fr dx.doi.org 1 Archeo
+archeo.blog.lemonde.fr esrf.eu 0.142857142857143 Archeo
+archeo.blog.lemonde.fr expositions.bnf.fr 0.142857142857143 Archeo
+archeo.blog.lemonde.fr facebook.com 0.857142857142857 Archeo
+archeo.blog.lemonde.fr fr.wikipedia.org 0.285714285714286 Archeo
+archeo.blog.lemonde.fr inrap.fr 0.142857142857143 Archeo
+archeo.blog.lemonde.fr jps.auckland.ac.nz 0.142857142857143 Archeo
+archeo.blog.lemonde.fr larecherche.fr 0.571428571428571 Archeo
+archeo.blog.lemonde.fr lemonde.fr 0.142857142857143 Archeo
+archeo.blog.lemonde.fr loicbertrand.eu 0.142857142857143 Archeo
+archeo.blog.lemonde.fr maisondesculturesdumonde.org 0.142857142857143 Archeo
+archeo.blog.lemonde.fr mediterraneanworld.wordpress.com 0.142857142857143 Archeo
+archeo.blog.lemonde.fr passeurdesciences.blog.lemonde.fr 0.142857142857143 Archeo
+archeo.blog.lemonde.fr pasteur.fr 0.142857142857143 Archeo
+archeo.blog.lemonde.fr remacle.org 0.285714285714286 Archeo
+archeo.blog.lemonde.fr synchrotron-soleil.fr 0.142857142857143 Archeo
+archeo.blog.lemonde.fr theses.fr 0.142857142857143 Archeo
+archeo.blog.lemonde.fr twitter.com 0.857142857142857 Archeo
+archeo.blog.lemonde.fr whc.unesco.org 0.142857142857143 Archeo
+binaire.blog.lemonde.fr 42.fr 0.2 Binaire
+binaire.blog.lemonde.fr abiteboul.com 0.3 Binaire
+binaire.blog.lemonde.fr binaire.blog.lemonde.fr 1.2 Binaire
+binaire.blog.lemonde.fr college-de-france.fr 0.1 Binaire
+binaire.blog.lemonde.fr epi.asso.fr 0.1 Binaire
+binaire.blog.lemonde.fr epitech.eu 0.1 Binaire
+binaire.blog.lemonde.fr homepages.laas.fr 0.2 Binaire
+binaire.blog.lemonde.fr laas.fr 0.1 Binaire
+binaire.blog.lemonde.fr lecole.com 0.1 Binaire
+binaire.blog.lemonde.fr rayclid.com 0.2 Binaire
+binaire.blog.lemonde.fr simplon.co 0.1 Binaire
+binaire.blog.lemonde.fr societe-informatique-de-france.fr 0.2 Binaire
+binaire.blog.lemonde.fr who.rocq.inria.fr 0.2 Binaire
+bioinfo-fr.net amigo.geneontology.org 0.1 Bio-info -Fr
+bioinfo-fr.net arpcard.mcmaster.ca 0.1 Bio-info -Fr
+bioinfo-fr.net beetlebase.org 0.1 Bio-info -Fr
+bioinfo-fr.net bioinfo-fr.net 6.4 Bio-info -Fr
+bioinfo-fr.net bioinformatics.oxfordjournals.org 0.1 Bio-info -Fr
+bioinfo-fr.net bioontology.org 0.1 Bio-info -Fr
+bioinfo-fr.net bioportal.bioontology.org 0.1 Bio-info -Fr
+bioinfo-fr.net cea.fr 0.1 Bio-info -Fr
+bioinfo-fr.net cnrs.fr 0.1 Bio-info -Fr
+bioinfo-fr.net cran.r-project.org 0.1 Bio-info -Fr
+bioinfo-fr.net cropontology.org 0.1 Bio-info -Fr
+bioinfo-fr.net ebi.ac.uk 0.2 Bio-info -Fr
+bioinfo-fr.net ebooksgratuits.com 0.1 Bio-info -Fr
+bioinfo-fr.net ec.europa.eu 0.1 Bio-info -Fr
+bioinfo-fr.net elixir-europe.org 0.4 Bio-info -Fr
+bioinfo-fr.net en.wikipedia.org 0.9 Bio-info -Fr
+bioinfo-fr.net esilrch1.esi.umontreal.ca 0.1 Bio-info -Fr
+bioinfo-fr.net f1000.com 0.1 Bio-info -Fr
+bioinfo-fr.net flickr.com 0.1 Bio-info -Fr
+bioinfo-fr.net fr.wikipedia.org 1.8 Bio-info -Fr
+bioinfo-fr.net github.com 0.1 Bio-info -Fr
+bioinfo-fr.net gmod.org 0.1 Bio-info -Fr
+bioinfo-fr.net google.fr 0.1 Bio-info -Fr
+bioinfo-fr.net grisbio.fr 0.3 Bio-info -Fr
+bioinfo-fr.net inra.fr 0.1 Bio-info -Fr
+bioinfo-fr.net inria.fr 0.1 Bio-info -Fr
+bioinfo-fr.net inserm.fr 0.1 Bio-info -Fr
+bioinfo-fr.net irisa.fr 0.1 Bio-info -Fr
+bioinfo-fr.net isb-sib.ch 0.1 Bio-info -Fr
+bioinfo-fr.net lavenier.net 0.1 Bio-info -Fr
+bioinfo-fr.net maps.google.com 0.1 Bio-info -Fr
+bioinfo-fr.net metanetx.org 0.1 Bio-info -Fr
+bioinfo-fr.net minia.genouest.org 0.2 Bio-info -Fr
+bioinfo-fr.net multimedia.mcb.harvard.edu 0.1 Bio-info -Fr
+bioinfo-fr.net nature.com 0.2 Bio-info -Fr
+bioinfo-fr.net neurolex.org 0.1 Bio-info -Fr
+bioinfo-fr.net nobelprize.org 0.2 Bio-info -Fr
+bioinfo-fr.net obofoundry.org 0.1 Bio-info -Fr
+bioinfo-fr.net opencobra.sourceforge.net 0.1 Bio-info -Fr
+bioinfo-fr.net osm.org 0.1 Bio-info -Fr
+bioinfo-fr.net pythonhosted.org 0.1 Bio-info -Fr
+bioinfo-fr.net raspberrypi.org 0.2 Bio-info -Fr
+bioinfo-fr.net soap.genomics.org.cn 0.1 Bio-info -Fr
+bioinfo-fr.net stat.washington.edu 0.1 Bio-info -Fr
+bioinfo-fr.net tbrowse.osdd.net 0.1 Bio-info -Fr
+bioinfo-fr.net tomgruber.org 0.1 Bio-info -Fr
+bioinfo-fr.net twitter.com 0.1 Bio-info -Fr
+bioinfo-fr.net www2.mrc-lmb.cam.ac.uk 0.2 Bio-info -Fr
+fossilandmrdarwin.wordpress.com fossilandmrdarwin.files.wordpress.com 5.25 The fossil and Mr Darwin
+fossilandmrdarwin.wordpress.com passeurdesciences.blog.lemonde.fr 0.25 The fossil and Mr Darwin
+fossilandmrdarwin.wordpress.com plosgenetics.org 0.25 The fossil and Mr Darwin
+fossilandmrdarwin.wordpress.com pnas.org 0.25 The fossil and Mr Darwin
+fossilandmrdarwin.wordpress.com sciencemag.org 0.25 The fossil and Mr Darwin
+/mpelie.wordpress.com 23andme.com 0.1 Gravite zero absolu
+/mpelie.wordpress.com borealie.org 0.1 Gravite zero absolu
+/mpelie.wordpress.com facebook.com 0.2 Gravite zero absolu
+/mpelie.wordpress.com lecodechastenay.telequebec.tv 0.1 Gravite zero absolu
+/mpelie.wordpress.com mpelie.files.wordpress.com 0.2 Gravite zero absolu
+/mpelie.wordpress.com sciencemag.org 0.1 Gravite zero absolu
+nadegejoly.wordpress.com cafe-openscience.blogspot.fr 0.3 Arizona
+nadegejoly.wordpress.com fr.wikipedia.org 0.4 Arizona
+nadegejoly.wordpress.com gizmodo.fr 0.1 Arizona
+nadegejoly.wordpress.com leparisien.fr 0.1 Arizona
+nadegejoly.wordpress.com nadegejoly.files.wordpress.com 0.2 Arizona
+nadegejoly.wordpress.com nasa.gov 0.3 Arizona
+nadegejoly.wordpress.com netpublic.fr 0.1 Arizona
+nadegejoly.wordpress.com science.nasa.gov 0.1 Arizona
+nadegejoly.wordpress.com t.co 0.4 Arizona
+nadegejoly.wordpress.com twitter.com 1.5 Arizona
+nadegejoly.wordpress.com zdnet.fr 0.1 Arizona
